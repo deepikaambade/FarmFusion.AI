@@ -1,0 +1,56 @@
+Crop,Mixed Crop(s),Crop Rotation,Benefits of Mixed Crop(s),Benefits of Crop Rotation
+Arecanut,"Banana, Coconut",Coconut,"Enhances soil structure, well-drained soil",Improves soil fertility and structure
+Arhar/Tur,"Wheat, Gram, Rapeseed & Mustard",Wheat,"Fixes nitrogen, improves soil fertility",Enhances soil fertility and structure
+Banana,"Potato, Sugarcane",Sugarcane,Benefits from well-drained soil,Enhances soil health and structure
+Black pepper,"Coconut, Coffee",Coffee,"Improves soil structure, pest management",Enhances soil health and nutrient cycling
+Cashewnut,"Coconut, Arecanut",Coconut,Enhances soil structure,Improves soil fertility and structure
+Coconut,"Banana, Arecanut",Arecanut,"Enhances soil structure, well-drained soil",Improves soil fertility and structure
+Cowpea(Lobia),"Maize, Sorghum",Maize,"Fixes nitrogen, improves soil fertility",Enhances soil health and nutrient balance
+Dry chillies,"Garlic, Onion",Onion,Beneficial for soil health and pest management,Enhances soil health and pest management
+Ginger,"Turmeric, Cardamom",Turmeric,"Improves soil structure, pest management",Enhances soil health and nutrient cycling
+Groundnut,"Maize, Cotton (lint)",Maize,Improves soil fertility,Enhances nutrient balance and soil fertility
+Maize,"Groundnut, Soyabean",Groundnut,Benefits soil fertility,Enhances nutrient balance and soil fertility
+Moong(Green Gram),"Bajra, Jowar, Sesamum",Bajra,"Fixes nitrogen, improves soil fertility",Enhances soil health and structure
+Oilseeds total,"Rapeseed & Mustard, Sesamum",Rapeseed & Mustard,Improves soil structure and fertility,Enhances soil health and structure
+Other Kharif pulses,"Moth, Urad",Moth,Rotation improves soil health and fertility,"Diversifies cropping patterns, enhances soil health"
+Other oilseeds,"Sesamum, Groundnut",Groundnut,Improves soil structure and fertility,Enhances soil health and structure
+Rapeseed & Mustard,"Oilseeds total, Other Rabi pulses",Oilseeds total,"Fixes nitrogen, improves soil fertility",Enhances soil health and fertility
+Rice,"Sesamum, Soyabean",Sesamum,Benefits from well-watered soil,Enhances nutrient balance and soil health
+Sesamum,"Other oilseeds, Rice",Other oilseeds,Improves soil fertility,Enhances soil health and structure
+Sugarcane,"Banana, Tobacco",Banana,Benefits from well-drained soil,Enhances soil health and structure
+Sunflower,"Maize, Sorghum",Maize,Improves soil structure and fertility,Enhances nutrient balance and soil health
+Sweet potato,"Groundnut, Soyabean",Groundnut,Improves soil fertility,Enhances nutrient balance and soil fertility
+Tapioca,"Turmeric, Banana",Turmeric,Enhances soil structure and fertility,Enhances soil health and nutrient cycling
+Turmeric,"Ginger, Cardamom",Ginger,Improves soil structure and fertility,Enhances soil health and nutrient cycling
+Urad,"Other Kharif pulses, Moth",Other Kharif pulses,"Fixes nitrogen, improves soil fertility",Enhances soil health and structure
+Bajra,"Moong (Green Gram), Guar seed",Moong (Green Gram),"Hardy crop, benefits from nitrogen fixation",Improves soil fertility
+Castor seed,"Maize, Sesamum",Maize,"Deep-rooted, improves soil structure","Diversifies cropping patterns, improves soil health"
+Coriander,"Onion, Garlic",Onion,Beneficial for soil health and pest management,Enhances soil health and pest management
+Cotton (lint),"Groundnut, Maize",Groundnut,Improves soil fertility,Enhances nutrient balance and soil fertility
+Garlic,"Dry chillies, Onion",Dry chillies,"Enhances soil fertility, good for pest management",Improves soil health and pest management
+Gram,"Wheat, Arhar/Tur, Rapeseed & Mustard",Wheat,"Fixes nitrogen, improves soil fertility",Enhances soil fertility and structure
+Guar seed,"Bajra, Soyabean",Soyabean,"Improves soil structure, beneficial nitrogen fixation",Enhances soil health and structure
+Horse-gram,"Ragi, Other Kharif pulses",Ragi,Improves soil structure and fertility,"Diversifies cropping patterns, enhances soil health"
+Jowar,"Moong (Green Gram), Cotton (lint)",Moong (Green Gram),"Drought-resistant, benefits from nitrogen fixation",Improves soil health and fertility
+Linseed,"Wheat, Gram",Wheat,Improves soil structure and fertility,Enhances soil health and nutrient balance
+Masoor,"Wheat, Gram",Wheat,"Fixes nitrogen, improves soil fertility",Enhances soil health and fertility
+Mesta,"Rice, Jute",Rice,Improves soil structure and fertility,Enhances soil health and nutrient balance
+Niger seed,"Soyabean, Groundnut",Soyabean,Improves soil structure and fertility,Enhances soil health and nutrient balance
+Onion,"Garlic, Dry chillies",Garlic,Beneficial for soil health and pest management,Improves soil health and pest management
+Other Rabi pulses,"Wheat, Rapeseed & Mustard",Wheat,"Fixes nitrogen, improves soil fertility",Enhances soil fertility and structure
+Potato,"Banana, Tobacco",Banana,Benefits from well-drained soil,Enhances soil health and structure
+Ragi,"Other Cereals, Moth",Other Cereals,Improves soil structure and fertility,"Diversifies cropping patterns, enhances soil health"
+Safflower,"Wheat, Gram",Wheat,Improves soil structure and fertility,Enhances soil health and nutrient balance
+Sannhamp,"Cotton, Groundnut",Cotton,"Fixes nitrogen, improves soil fertility",Enhances soil health and structure
+Small millets,"Groundnut, Ragi",Groundnut,"Drought-resistant, improves soil structure",Enhances nutrient balance and soil fertility
+Soyabean,"Maize, Rice",Maize,"Fixes nitrogen, improves soil fertility",Enhances soil health and structure
+Tobacco,"Banana, Sugarcane",Banana,Benefits from well-drained soil,Enhances soil health and structure
+Wheat,"Gram, Other Rabi pulses",Gram,Benefits from nitrogen fixation,Enhances soil fertility and structure
+Peas & beans (Pulses),"Maize, Sorghum",Maize,"Fixes nitrogen, improves soil fertility",Enhances soil health and nutrient balance
+Jute,"Rice, Mesta",Rice,Improves soil structure and fertility,Enhances soil health and nutrient balance
+Barley,"Wheat, Gram",Wheat,Improves soil structure and fertility,Enhances soil health and nutrient balance
+Khesari,"Wheat, Gram",Wheat,"Fixes nitrogen, improves soil fertility",Enhances soil fertility and structure
+Moth,"Ragi, Other Kharif pulses",Ragi,Improves soil structure and fertility,"Diversifies cropping patterns, enhances soil health"
+Other Cereals,"Ragi, Rice",Rice,Diversifies crop portfolio,Enhances soil health and fertility
+Cardamom,"Ginger, Turmeric",Ginger,Improves soil structure and fertility,Enhances soil health and nutrient cycling
+Other Summer Pulses,"Groundnut, Soyabean",Groundnut,"Fixes nitrogen, improves soil fertility",Enhances soil health and structure
