@@ -1,0 +1,896 @@
+State,District,Crop,Season,Yield,Soil Type,Annual_Rainfall,Avg_Temperature,Avg_Humidity,Soil_pH
+Maharashtra,AHMEDNAGAR,Arhar/Tur,Kharif,0.5,Coarse Soil,567.2,26.0,70.0,7.11
+Maharashtra,AKOLA,Arhar/Tur,Kharif,2.27,Coarse Soil,779.5,27.5,65.0,7.14
+Maharashtra,AMRAVATI,Arhar/Tur,Kharif,0.82,Coarse Soil,890.9,27.0,68.0,5.74
+Maharashtra,AURANGABAD,Arhar/Tur,Kharif,0.77,Coarse Soil,715.4,26.5,72.0,7.35
+Maharashtra,BEED,Arhar/Tur,Kharif,0.75,Coarse Soil,691.0,26.0,69.0,5.61
+Maharashtra,BHANDARA,Arhar/Tur,Kharif,0.5,Not clearly visible,1290.9,28.0,75.0,5.96
+Maharashtra,BULDHANA,Arhar/Tur,Kharif,1.2,Coarse Soil,804.5,27.0,70.0,6.18
+Maharashtra,CHANDRAPUR,Arhar/Tur,Kharif,1.35,Coarse Soil,1384.4,29.0,80.0,6.81
+Maharashtra,DHULE,Arhar/Tur,Kharif,0.51,Coarse Soil,585.8,27.0,66.0,6.81
+Maharashtra,GADCHIROLI,Arhar/Tur,Kharif,0.9,Not clearly visible,1455.2,28.0,78.0,6.45
+Maharashtra,GONDIA,Arhar/Tur,Kharif,0.7,Not clearly visible,No data,28.0,76.0,7.44
+Maharashtra,HINGOLI,Arhar/Tur,Kharif,0.92,Coarse Soil,No data,26.5,71.0,6.2
+Maharashtra,JALGAON,Arhar/Tur,Kharif,0.51,Coarse Soil,734.0,26.0,67.0,6.02
+Maharashtra,JALNA,Arhar/Tur,Kharif,1.28,Coarse Soil,No data,26.0,69.0,7.06
+Maharashtra,KOLHAPUR,Arhar/Tur,Kharif,1.97,Laterite Soil,1655.3,26.5,73.0,5.13
+Maharashtra,LATUR,Arhar/Tur,Kharif,1.22,Coarse Soil,No data,26.0,70.0,6.22
+Maharashtra,NAGPUR,Arhar/Tur,Kharif,1.29,Coarse Soil,1129.5,28.5,77.0,6.66
+Maharashtra,NANDED,Arhar/Tur,Kharif,0.71,Coarse Soil,No data,27.0,72.0,6.95
+Maharashtra,NANDURBAR,Arhar/Tur,Kharif,0.45,Not clearly visible,835.5,27.0,68.0,5.58
+Maharashtra,NASHIK,Arhar/Tur,Kharif,0.35,Coarse Soil,578.8,26.5,70.0,7.22
+Maharashtra,OSMANABAD,Arhar/Tur,Kharif,0.37,Coarse Soil,No data,26.0,69.0,6.14
+Maharashtra,PALGHAR,Arhar/Tur,Kharif,0.44,Multiple soil types,No data,27.5,80.0,6.14
+Maharashtra,PARBHANI,Arhar/Tur,Kharif,1.15,Coarse Soil,No data,27.0,68.0,6.56
+Maharashtra,PUNE,Arhar/Tur,Kharif,0.65,Multiple soil types,613.3,26.0,65.0,6.92
+Maharashtra,RAIGAD,Arhar/Tur,Kharif,0.59,Laterite Soil,3414.2,27.0,75.0,5.11
+Maharashtra,SANGLI,Arhar/Tur,Kharif,0.21,Coarse Soil,614.3,26.5,70.0,5.85
+Maharashtra,SATARA,Arhar/Tur,Kharif,0.83,Multiple soil types,1376.2,26.5,68.0,5.56
+Maharashtra,SOLAPUR,Arhar/Tur,Kharif,0.57,Coarse Soil,545.4,27.0,70.0,6.78
+Maharashtra,WARDHA,Arhar/Tur,Kharif,1.35,Coarse Soil,No data,28.5,78.0,6.28
+Maharashtra,WASHIM,Arhar/Tur,Kharif,0.63,Coarse Soil,No data,27.0,68.0,7.25
+Maharashtra,YAVATMAL,Arhar/Tur,Kharif,0.31,Coarse Soil,No data,27.5,70.0,5.84
+Maharashtra,AHMEDNAGAR,Bajra,Kharif,0.87,Coarse Soil,567.2,26.0,70.0,7.5
+Maharashtra,AKOLA,Bajra,Kharif,0.23,Coarse Soil,779.5,27.5,65.0,5.89
+Maharashtra,AMRAVATI,Bajra,Kharif,1.0,Coarse Soil,890.9,27.0,68.0,5.72
+Maharashtra,AURANGABAD,Bajra,Kharif,0.91,Coarse Soil,715.4,26.5,72.0,6.72
+Maharashtra,BEED,Bajra,Kharif,0.8,Coarse Soil,691.0,26.0,69.0,6.01
+Maharashtra,BULDHANA,Bajra,Kharif,0.23,Coarse Soil,804.5,27.0,70.0,7.33
+Maharashtra,DHULE,Bajra,Kharif,0.52,Coarse Soil,585.8,27.0,66.0,5.57
+Maharashtra,HINGOLI,Bajra,Kharif,0.17,Coarse Soil,No data,26.5,71.0,6.02
+Maharashtra,JALGAON,Bajra,Kharif,0.8,Coarse Soil,734.0,26.0,67.0,5.66
+Maharashtra,JALNA,Bajra,Kharif,1.29,Coarse Soil,No data,26.0,69.0,5.57
+Maharashtra,LATUR,Bajra,Kharif,0.22,Coarse Soil,No data,26.0,70.0,6.6
+Maharashtra,NANDED,Bajra,Kharif,0.23,Coarse Soil,No data,27.0,72.0,6.39
+Maharashtra,NANDURBAR,Bajra,Kharif,0.83,Not clearly visible,835.5,27.0,68.0,5.52
+Maharashtra,NASHIK,Bajra,Kharif,1.02,Coarse Soil,578.8,26.5,70.0,6.3
+Maharashtra,OSMANABAD,Bajra,Kharif,0.3,Coarse Soil,No data,26.0,69.0,7.08
+Maharashtra,PARBHANI,Bajra,Kharif,0.47,Coarse Soil,No data,27.0,68.0,6.75
+Maharashtra,PUNE,Bajra,Kharif,1.31,Multiple soil types,613.3,26.0,65.0,5.68
+Maharashtra,SANGLI,Bajra,Kharif,0.35,Coarse Soil,614.3,26.5,70.0,6.02
+Maharashtra,SATARA,Bajra,Kharif,0.52,Multiple soil types,1376.2,26.5,68.0,6.18
+Maharashtra,SOLAPUR,Bajra,Kharif,0.23,Coarse Soil,545.4,27.0,70.0,5.82
+Maharashtra,WASHIM,Bajra,Kharif,0.23,Coarse Soil,No data,27.0,68.0,6.27
+Maharashtra,YAVATMAL,Bajra,Kharif,0.22,Coarse Soil,No data,27.5,70.0,6.4
+Maharashtra,AHMEDNAGAR,Cotton(lint),Kharif,0.92,Coarse Soil,567.2,26.0,70.0,5.6
+Maharashtra,AKOLA,Cotton(lint),Kharif,2.46,Coarse Soil,779.5,27.5,65.0,7.11
+Maharashtra,AMRAVATI,Cotton(lint),Kharif,1.67,Coarse Soil,890.9,27.0,68.0,5.85
+Maharashtra,AURANGABAD,Cotton(lint),Kharif,1.41,Coarse Soil,715.4,26.5,72.0,7.43
+Maharashtra,BEED,Cotton(lint),Kharif,0.98,Coarse Soil,691.0,26.0,69.0,7.39
+Maharashtra,BHANDARA,Cotton(lint),Kharif,2.68,Not clearly visible,1290.9,28.0,75.0,6.34
+Maharashtra,BULDHANA,Cotton(lint),Kharif,0.8,Coarse Soil,804.5,27.0,70.0,6.4
+Maharashtra,CHANDRAPUR,Cotton(lint),Kharif,2.4,Coarse Soil,1384.4,29.0,80.0,6.24
+Maharashtra,DHULE,Cotton(lint),Kharif,0.81,Coarse Soil,585.8,27.0,66.0,5.6
+Maharashtra,GADCHIROLI,Cotton(lint),Kharif,3.01,Not clearly visible,1455.2,28.0,78.0,6.85
+Maharashtra,GONDIA,Cotton(lint),Kharif,2.5,Not clearly visible,No data,28.0,76.0,6.26
+Maharashtra,HINGOLI,Cotton(lint),Kharif,2.51,Coarse Soil,No data,26.5,71.0,6.19
+Maharashtra,JALGAON,Cotton(lint),Kharif,0.94,Coarse Soil,734.0,26.0,67.0,6.11
+Maharashtra,JALNA,Cotton(lint),Kharif,2.33,Coarse Soil,No data,26.0,69.0,6.7
+Maharashtra,LATUR,Cotton(lint),Kharif,1.52,Coarse Soil,No data,26.0,70.0,6.12
+Maharashtra,NAGPUR,Cotton(lint),Kharif,2.67,Coarse Soil,1129.5,28.5,77.0,6.62
+Maharashtra,NANDED,Cotton(lint),Kharif,1.06,Coarse Soil,No data,27.0,72.0,7.04
+Maharashtra,NANDURBAR,Cotton(lint),Kharif,1.58,Not clearly visible,835.5,27.0,68.0,5.76
+Maharashtra,NASHIK,Cotton(lint),Kharif,1.18,Coarse Soil,578.8,26.5,70.0,5.69
+Maharashtra,OSMANABAD,Cotton(lint),Kharif,0.52,Coarse Soil,No data,26.0,69.0,6.48
+Maharashtra,PARBHANI,Cotton(lint),Kharif,1.39,Coarse Soil,No data,27.0,68.0,5.98
+Maharashtra,PUNE,Cotton(lint),Kharif,34.14,Multiple soil types,613.3,26.0,65.0,6.47
+Maharashtra,SANGLI,Cotton(lint),Kharif,1.88,Coarse Soil,614.3,26.5,70.0,6.21
+Maharashtra,SATARA,Cotton(lint),Kharif,1.86,Multiple soil types,1376.2,26.5,68.0,6.77
+Maharashtra,SOLAPUR,Cotton(lint),Kharif,0.46,Coarse Soil,545.4,27.0,70.0,6.31
+Maharashtra,WARDHA,Cotton(lint),Kharif,2.75,Coarse Soil,No data,28.5,78.0,6.96
+Maharashtra,WASHIM,Cotton(lint),Kharif,1.68,Coarse Soil,No data,27.0,68.0,5.85
+Maharashtra,YAVATMAL,Cotton(lint),Kharif,1.17,Coarse Soil,No data,27.5,70.0,6.1
+Maharashtra,AHMEDNAGAR,Gram,Rabi,0.85,Coarse Soil,567.2,26.0,70.0,5.73
+Maharashtra,AKOLA,Gram,Rabi,1.26,Coarse Soil,779.5,27.5,65.0,6.6
+Maharashtra,AMRAVATI,Gram,Rabi,1.21,Coarse Soil,890.9,27.0,68.0,7.45
+Maharashtra,AURANGABAD,Gram,Rabi,1.0,Coarse Soil,715.4,26.5,72.0,7.12
+Maharashtra,BEED,Gram,Rabi,1.0,Coarse Soil,691.0,26.0,69.0,5.75
+Maharashtra,BHANDARA,Gram,Rabi,0.7,Not clearly visible,1290.9,28.0,75.0,6.67
+Maharashtra,BULDHANA,Gram,Rabi,1.33,Coarse Soil,804.5,27.0,70.0,5.51
+Maharashtra,CHANDRAPUR,Gram,Rabi,0.83,Coarse Soil,1384.4,29.0,80.0,7.19
+Maharashtra,DHULE,Gram,Rabi,1.33,Coarse Soil,585.8,27.0,66.0,5.89
+Maharashtra,GADCHIROLI,Gram,Rabi,0.8,Not clearly visible,1455.2,28.0,78.0,5.76
+Maharashtra,GONDIA,Gram,Rabi,0.39,Not clearly visible,No data,28.0,76.0,7.24
+Maharashtra,HINGOLI,Gram,Rabi,1.04,Coarse Soil,No data,26.5,71.0,7.22
+Maharashtra,JALGAON,Gram,Rabi,1.38,Coarse Soil,734.0,26.0,67.0,6.85
+Maharashtra,JALNA,Gram,Rabi,1.02,Coarse Soil,No data,26.0,69.0,5.62
+Maharashtra,KOLHAPUR,Gram,Rabi,1.06,Laterite Soil,1655.3,26.5,73.0,4.51
+Maharashtra,LATUR,Gram,Rabi,1.12,Coarse Soil,No data,26.0,70.0,7.3
+Maharashtra,NAGPUR,Gram,Rabi,0.93,Coarse Soil,1129.5,28.5,77.0,6.49
+Maharashtra,NANDED,Gram,Rabi,1.51,Coarse Soil,No data,27.0,72.0,7.11
+Maharashtra,NANDURBAR,Gram,Rabi,0.98,Not clearly visible,835.5,27.0,68.0,6.35
+Maharashtra,NASHIK,Gram,Rabi,0.83,Coarse Soil,578.8,26.5,70.0,7.02
+Maharashtra,OSMANABAD,Gram,Rabi,0.9,Coarse Soil,No data,26.0,69.0,6.12
+Maharashtra,PALGHAR,Gram,Rabi,0.73,Multiple soil types,No data,27.5,80.0,6.11
+Maharashtra,PARBHANI,Gram,Rabi,0.89,Coarse Soil,No data,27.0,68.0,6.99
+Maharashtra,PUNE,Gram,Rabi,1.07,Multiple soil types,613.3,26.0,65.0,6.14
+Maharashtra,RAIGAD,Gram,Rabi,0.42,Laterite Soil,3414.2,27.0,75.0,5.3
+Maharashtra,RATNAGIRI,Gram,Rabi,0.48,Laterite Soil,No data,27.0,74.0,4.92
+Maharashtra,SANGLI,Gram,Rabi,0.88,Coarse Soil,614.3,26.5,70.0,6.55
+Maharashtra,SATARA,Gram,Rabi,0.97,Multiple soil types,1376.2,26.5,68.0,5.59
+Maharashtra,SOLAPUR,Gram,Rabi,0.81,Coarse Soil,545.4,27.0,70.0,5.74
+Maharashtra,THANE,Gram,Rabi,0.7,Multiple soil types,2573.9,27.5,76.0,6.93
+Maharashtra,WARDHA,Gram,Rabi,1.01,Coarse Soil,No data,28.5,78.0,6.97
+Maharashtra,WASHIM,Gram,Rabi,0.92,Coarse Soil,No data,27.0,68.0,6.46
+Maharashtra,YAVATMAL,Gram,Rabi,1.43,Coarse Soil,No data,27.5,70.0,5.94
+Maharashtra,AHMEDNAGAR,Groundnut,Kharif,0.59,Coarse Soil,567.2,26.0,70.0,6.95
+Maharashtra,AHMEDNAGAR,Groundnut,Summer,1.62,Coarse Soil,567.2,26.0,70.0,7.46
+Maharashtra,AKOLA,Groundnut,Kharif,0.68,Coarse Soil,779.5,27.5,65.0,6.0
+Maharashtra,AKOLA,Groundnut,Summer,2.76,Coarse Soil,779.5,27.5,65.0,6.88
+Maharashtra,AMRAVATI,Groundnut,Kharif,0.33,Coarse Soil,890.9,27.0,68.0,6.87
+Maharashtra,AMRAVATI,Groundnut,Summer,1.66,Coarse Soil,890.9,27.0,68.0,6.69
+Maharashtra,AURANGABAD,Groundnut,Kharif,0.98,Coarse Soil,715.4,26.5,72.0,7.29
+Maharashtra,AURANGABAD,Groundnut,Summer,0.8,Coarse Soil,715.4,26.5,72.0,6.05
+Maharashtra,BEED,Groundnut,Kharif,0.44,Coarse Soil,691.0,26.0,69.0,7.22
+Maharashtra,BEED,Groundnut,Summer,1.16,Coarse Soil,691.0,26.0,69.0,7.15
+Maharashtra,BULDHANA,Groundnut,Kharif,0.85,Coarse Soil,804.5,27.0,70.0,7.4
+Maharashtra,BULDHANA,Groundnut,Summer,1.96,Coarse Soil,804.5,27.0,70.0,6.57
+Maharashtra,CHANDRAPUR,Groundnut,Summer,0.76,Coarse Soil,1384.4,29.0,80.0,7.04
+Maharashtra,DHULE,Groundnut,Kharif,0.58,Coarse Soil,585.8,27.0,66.0,6.36
+Maharashtra,DHULE,Groundnut,Summer,1.7,Coarse Soil,585.8,27.0,66.0,6.53
+Maharashtra,GADCHIROLI,Groundnut,Kharif,0.23,Not clearly visible,1455.2,28.0,78.0,6.27
+Maharashtra,GADCHIROLI,Groundnut,Summer,2.0,Not clearly visible,1455.2,28.0,78.0,5.63
+Maharashtra,GONDIA,Groundnut,Kharif,0.25,Not clearly visible,No data,28.0,76.0,7.25
+Maharashtra,GONDIA,Groundnut,Summer,0.0,Not clearly visible,No data,28.0,76.0,6.12
+Maharashtra,HINGOLI,Groundnut,Kharif,0.48,Coarse Soil,No data,26.5,71.0,6.45
+Maharashtra,HINGOLI,Groundnut,Summer,2.31,Coarse Soil,No data,26.5,71.0,5.61
+Maharashtra,JALGAON,Groundnut,Kharif,0.74,Coarse Soil,734.0,26.0,67.0,7.07
+Maharashtra,JALGAON,Groundnut,Summer,2.31,Coarse Soil,734.0,26.0,67.0,6.32
+Maharashtra,JALNA,Groundnut,Kharif,2.34,Coarse Soil,No data,26.0,69.0,6.57
+Maharashtra,JALNA,Groundnut,Summer,1.0,Coarse Soil,No data,26.0,69.0,6.88
+Maharashtra,KOLHAPUR,Groundnut,Kharif,1.19,Laterite Soil,1655.3,26.5,73.0,5.76
+Maharashtra,KOLHAPUR,Groundnut,Summer,2.25,Laterite Soil,1655.3,26.5,73.0,5.75
+Maharashtra,LATUR,Groundnut,Kharif,0.33,Coarse Soil,No data,26.0,70.0,6.47
+Maharashtra,LATUR,Groundnut,Summer,1.34,Coarse Soil,No data,26.0,70.0,5.73
+Maharashtra,NAGPUR,Groundnut,Kharif,0.14,Coarse Soil,1129.5,28.5,77.0,7.1
+Maharashtra,NAGPUR,Groundnut,Summer,2.16,Coarse Soil,1129.5,28.5,77.0,6.96
+Maharashtra,NANDED,Groundnut,Kharif,0.38,Coarse Soil,No data,27.0,72.0,7.06
+Maharashtra,NANDED,Groundnut,Summer,1.18,Coarse Soil,No data,27.0,72.0,7.0
+Maharashtra,NANDURBAR,Groundnut,Kharif,0.87,Not clearly visible,835.5,27.0,68.0,6.85
+Maharashtra,NANDURBAR,Groundnut,Summer,1.36,Not clearly visible,835.5,27.0,68.0,6.51
+Maharashtra,NASHIK,Groundnut,Kharif,0.75,Coarse Soil,578.8,26.5,70.0,6.26
+Maharashtra,NASHIK,Groundnut,Summer,2.02,Coarse Soil,578.8,26.5,70.0,6.05
+Maharashtra,OSMANABAD,Groundnut,Kharif,0.54,Coarse Soil,No data,26.0,69.0,7.4
+Maharashtra,OSMANABAD,Groundnut,Summer,0.95,Coarse Soil,No data,26.0,69.0,6.99
+Maharashtra,PARBHANI,Groundnut,Kharif,0.33,Coarse Soil,No data,27.0,68.0,5.85
+Maharashtra,PARBHANI,Groundnut,Summer,1.98,Coarse Soil,No data,27.0,68.0,6.52
+Maharashtra,PUNE,Groundnut,Kharif,1.0,Multiple soil types,613.3,26.0,65.0,5.68
+Maharashtra,PUNE,Groundnut,Summer,2.35,Multiple soil types,613.3,26.0,65.0,6.45
+Maharashtra,RAIGAD,Groundnut,Summer,3.3,Laterite Soil,3414.2,27.0,75.0,4.79
+Maharashtra,RATNAGIRI,Groundnut,Summer,2.42,Laterite Soil,No data,27.0,74.0,5.1
+Maharashtra,SANGLI,Groundnut,Kharif,0.81,Coarse Soil,614.3,26.5,70.0,6.74
+Maharashtra,SANGLI,Groundnut,Summer,1.52,Coarse Soil,614.3,26.5,70.0,6.77
+Maharashtra,SATARA,Groundnut,Kharif,0.91,Multiple soil types,1376.2,26.5,68.0,5.72
+Maharashtra,SATARA,Groundnut,Summer,2.02,Multiple soil types,1376.2,26.5,68.0,5.57
+Maharashtra,SINDHUDURG,Groundnut,Kharif,0.99,Laterite Soil,No data,28.0,80.0,5.58
+Maharashtra,SINDHUDURG,Groundnut,Summer,2.25,Laterite Soil,No data,28.0,80.0,5.33
+Maharashtra,SOLAPUR,Groundnut,Kharif,0.45,Coarse Soil,545.4,27.0,70.0,7.06
+Maharashtra,SOLAPUR,Groundnut,Summer,1.48,Coarse Soil,545.4,27.0,70.0,5.81
+Maharashtra,THANE,Groundnut,Summer,1.86,Multiple soil types,2573.9,27.5,76.0,6.2
+Maharashtra,WARDHA,Groundnut,Kharif,0.56,Coarse Soil,No data,28.5,78.0,5.91
+Maharashtra,WARDHA,Groundnut,Summer,2.5,Coarse Soil,No data,28.5,78.0,6.01
+Maharashtra,WASHIM,Groundnut,Kharif,0.64,Coarse Soil,No data,27.0,68.0,6.78
+Maharashtra,WASHIM,Groundnut,Summer,1.39,Coarse Soil,No data,27.0,68.0,5.88
+Maharashtra,YAVATMAL,Groundnut,Summer,2.13,Coarse Soil,No data,27.5,70.0,6.94
+Maharashtra,AHMEDNAGAR,Jowar,Kharif,0.28,Coarse Soil,567.2,26.0,70.0,7.26
+Maharashtra,AHMEDNAGAR,Jowar,Rabi,0.52,Coarse Soil,567.2,26.0,70.0,6.92
+Maharashtra,AKOLA,Jowar,Kharif,0.82,Coarse Soil,779.5,27.5,65.0,6.07
+Maharashtra,AKOLA,Jowar,Rabi,0.79,Coarse Soil,779.5,27.5,65.0,6.17
+Maharashtra,AMRAVATI,Jowar,Kharif,0.33,Coarse Soil,890.9,27.0,68.0,6.34
+Maharashtra,AMRAVATI,Jowar,Rabi,0.79,Coarse Soil,890.9,27.0,68.0,7.13
+Maharashtra,AURANGABAD,Jowar,Kharif,0.31,Coarse Soil,715.4,26.5,72.0,6.03
+Maharashtra,AURANGABAD,Jowar,Rabi,0.98,Coarse Soil,715.4,26.5,72.0,5.79
+Maharashtra,BEED,Jowar,Kharif,0.54,Coarse Soil,691.0,26.0,69.0,5.58
+Maharashtra,BEED,Jowar,Rabi,0.75,Coarse Soil,691.0,26.0,69.0,6.24
+Maharashtra,BULDHANA,Jowar,Kharif,0.16,Coarse Soil,804.5,27.0,70.0,5.74
+Maharashtra,BULDHANA,Jowar,Rabi,0.92,Coarse Soil,804.5,27.0,70.0,6.24
+Maharashtra,CHANDRAPUR,Jowar,Kharif,0.77,Coarse Soil,1384.4,29.0,80.0,7.25
+Maharashtra,CHANDRAPUR,Jowar,Rabi,0.48,Coarse Soil,1384.4,29.0,80.0,7.08
+Maharashtra,DHULE,Jowar,Kharif,0.72,Coarse Soil,585.8,27.0,66.0,6.43
+Maharashtra,DHULE,Jowar,Rabi,1.92,Coarse Soil,585.8,27.0,66.0,5.91
+Maharashtra,GADCHIROLI,Jowar,Kharif,0.53,Not clearly visible,1455.2,28.0,78.0,5.93
+Maharashtra,GADCHIROLI,Jowar,Rabi,0.67,Not clearly visible,1455.2,28.0,78.0,5.81
+Maharashtra,HINGOLI,Jowar,Kharif,0.71,Coarse Soil,No data,26.5,71.0,5.83
+Maharashtra,HINGOLI,Jowar,Rabi,1.2,Coarse Soil,No data,26.5,71.0,6.19
+Maharashtra,JALGAON,Jowar,Kharif,0.66,Coarse Soil,734.0,26.0,67.0,6.96
+Maharashtra,JALGAON,Jowar,Rabi,1.65,Coarse Soil,734.0,26.0,67.0,6.35
+Maharashtra,JALNA,Jowar,Kharif,1.09,Coarse Soil,No data,26.0,69.0,7.34
+Maharashtra,JALNA,Jowar,Rabi,0.92,Coarse Soil,No data,26.0,69.0,7.25
+Maharashtra,KOLHAPUR,Jowar,Kharif,1.08,Laterite Soil,1655.3,26.5,73.0,5.2
+Maharashtra,KOLHAPUR,Jowar,Rabi,1.63,Laterite Soil,1655.3,26.5,73.0,5.85
+Maharashtra,LATUR,Jowar,Kharif,0.79,Coarse Soil,No data,26.0,70.0,5.8
+Maharashtra,LATUR,Jowar,Rabi,0.95,Coarse Soil,No data,26.0,70.0,6.83
+Maharashtra,NAGPUR,Jowar,Kharif,0.4,Coarse Soil,1129.5,28.5,77.0,6.22
+Maharashtra,NAGPUR,Jowar,Rabi,0.57,Coarse Soil,1129.5,28.5,77.0,6.89
+Maharashtra,NANDED,Jowar,Kharif,0.63,Coarse Soil,No data,27.0,72.0,5.63
+Maharashtra,NANDED,Jowar,Rabi,1.39,Coarse Soil,No data,27.0,72.0,6.4
+Maharashtra,NANDURBAR,Jowar,Kharif,1.16,Not clearly visible,835.5,27.0,68.0,5.63
+Maharashtra,NANDURBAR,Jowar,Rabi,1.15,Not clearly visible,835.5,27.0,68.0,6.8
+Maharashtra,NASHIK,Jowar,Kharif,0.52,Coarse Soil,578.8,26.5,70.0,5.77
+Maharashtra,NASHIK,Jowar,Rabi,0.63,Coarse Soil,578.8,26.5,70.0,5.78
+Maharashtra,OSMANABAD,Jowar,Kharif,0.58,Coarse Soil,No data,26.0,69.0,6.41
+Maharashtra,OSMANABAD,Jowar,Rabi,0.92,Coarse Soil,No data,26.0,69.0,7.4
+Maharashtra,PARBHANI,Jowar,Kharif,0.65,Coarse Soil,No data,27.0,68.0,5.82
+Maharashtra,PARBHANI,Jowar,Rabi,1.03,Coarse Soil,No data,27.0,68.0,6.5
+Maharashtra,PUNE,Jowar,Kharif,0.81,Multiple soil types,613.3,26.0,65.0,5.58
+Maharashtra,PUNE,Jowar,Rabi,0.71,Multiple soil types,613.3,26.0,65.0,6.73
+Maharashtra,SANGLI,Jowar,Kharif,0.86,Coarse Soil,614.3,26.5,70.0,7.13
+Maharashtra,SANGLI,Jowar,Rabi,0.98,Coarse Soil,614.3,26.5,70.0,7.2
+Maharashtra,SATARA,Jowar,Kharif,0.7,Multiple soil types,1376.2,26.5,68.0,6.49
+Maharashtra,SATARA,Jowar,Rabi,0.8,Multiple soil types,1376.2,26.5,68.0,6.18
+Maharashtra,SOLAPUR,Jowar,Kharif,0.25,Coarse Soil,545.4,27.0,70.0,7.32
+Maharashtra,SOLAPUR,Jowar,Rabi,0.68,Coarse Soil,545.4,27.0,70.0,6.5
+Maharashtra,WARDHA,Jowar,Kharif,0.22,Coarse Soil,No data,28.5,78.0,7.26
+Maharashtra,WARDHA,Jowar,Rabi,0.56,Coarse Soil,No data,28.5,78.0,7.33
+Maharashtra,WASHIM,Jowar,Kharif,0.36,Coarse Soil,No data,27.0,68.0,6.74
+Maharashtra,WASHIM,Jowar,Rabi,0.79,Coarse Soil,No data,27.0,68.0,6.89
+Maharashtra,YAVATMAL,Jowar,Kharif,0.31,Coarse Soil,No data,27.5,70.0,5.89
+Maharashtra,YAVATMAL,Jowar,Rabi,0.79,Coarse Soil,No data,27.5,70.0,6.99
+Maharashtra,AHMEDNAGAR,Linseed,Rabi,0.23,Coarse Soil,567.2,26.0,70.0,6.61
+Maharashtra,BEED,Linseed,Rabi,0.31,Coarse Soil,691.0,26.0,69.0,6.74
+Maharashtra,BHANDARA,Linseed,Rabi,0.31,Not clearly visible,1290.9,28.0,75.0,5.9
+Maharashtra,CHANDRAPUR,Linseed,Rabi,0.4,Coarse Soil,1384.4,29.0,80.0,6.48
+Maharashtra,GADCHIROLI,Linseed,Rabi,0.66,Not clearly visible,1455.2,28.0,78.0,7.32
+Maharashtra,GONDIA,Linseed,Rabi,0.26,Not clearly visible,No data,28.0,76.0,6.24
+Maharashtra,JALNA,Linseed,Rabi,0.5,Coarse Soil,No data,26.0,69.0,5.66
+Maharashtra,LATUR,Linseed,Rabi,0.3,Coarse Soil,No data,26.0,70.0,5.57
+Maharashtra,MUMBAI SUBURBAN,Linseed,Rabi,0.22,Alluvial Soil,3177.7,28.0,75.0,6.35
+Maharashtra,NANDED,Linseed,Rabi,0.0,Coarse Soil,No data,27.0,72.0,7.33
+Maharashtra,OSMANABAD,Linseed,Rabi,0.49,Coarse Soil,No data,26.0,69.0,7.21
+Maharashtra,PARBHANI,Linseed,Rabi,0.23,Coarse Soil,No data,27.0,68.0,6.12
+Maharashtra,PUNE,Linseed,Rabi,0.0,Multiple soil types,613.3,26.0,65.0,5.54
+Maharashtra,SANGLI,Linseed,Rabi,0.5,Coarse Soil,614.3,26.5,70.0,6.49
+Maharashtra,SOLAPUR,Linseed,Rabi,0.29,Coarse Soil,545.4,27.0,70.0,6.56
+Maharashtra,AHMEDNAGAR,Maize,Kharif,0.34,Coarse Soil,567.2,26.0,70.0,7.18
+Maharashtra,AHMEDNAGAR,Maize,Rabi,2.94,Coarse Soil,567.2,26.0,70.0,7.5
+Maharashtra,AHMEDNAGAR,Maize,Summer,2.7,Coarse Soil,567.2,26.0,70.0,5.69
+Maharashtra,AKOLA,Maize,Kharif,2.16,Coarse Soil,779.5,27.5,65.0,6.81
+Maharashtra,AKOLA,Maize,Rabi,1.25,Coarse Soil,779.5,27.5,65.0,6.6
+Maharashtra,AMRAVATI,Maize,Kharif,2.0,Coarse Soil,890.9,27.0,68.0,6.83
+Maharashtra,AMRAVATI,Maize,Rabi,0.78,Coarse Soil,890.9,27.0,68.0,6.55
+Maharashtra,AMRAVATI,Maize,Summer,1.31,Coarse Soil,890.9,27.0,68.0,6.51
+Maharashtra,AURANGABAD,Maize,Kharif,1.08,Coarse Soil,715.4,26.5,72.0,7.33
+Maharashtra,AURANGABAD,Maize,Rabi,1.99,Coarse Soil,715.4,26.5,72.0,7.37
+Maharashtra,AURANGABAD,Maize,Summer,1.2,Coarse Soil,715.4,26.5,72.0,6.74
+Maharashtra,BEED,Maize,Kharif,0.28,Coarse Soil,691.0,26.0,69.0,6.51
+Maharashtra,BEED,Maize,Rabi,0.97,Coarse Soil,691.0,26.0,69.0,6.26
+Maharashtra,BEED,Maize,Summer,2.25,Coarse Soil,691.0,26.0,69.0,7.01
+Maharashtra,BULDHANA,Maize,Kharif,0.55,Coarse Soil,804.5,27.0,70.0,6.43
+Maharashtra,BULDHANA,Maize,Rabi,1.35,Coarse Soil,804.5,27.0,70.0,5.74
+Maharashtra,BULDHANA,Maize,Summer,1.59,Coarse Soil,804.5,27.0,70.0,5.85
+Maharashtra,CHANDRAPUR,Maize,Kharif,1.71,Coarse Soil,1384.4,29.0,80.0,6.22
+Maharashtra,CHANDRAPUR,Maize,Summer,1.0,Coarse Soil,1384.4,29.0,80.0,6.84
+Maharashtra,DHULE,Maize,Kharif,1.08,Coarse Soil,585.8,27.0,66.0,6.78
+Maharashtra,DHULE,Maize,Rabi,5.14,Coarse Soil,585.8,27.0,66.0,6.46
+Maharashtra,DHULE,Maize,Summer,1.37,Coarse Soil,585.8,27.0,66.0,6.66
+Maharashtra,GADCHIROLI,Maize,Kharif,1.9,Not clearly visible,1455.2,28.0,78.0,5.9
+Maharashtra,GADCHIROLI,Maize,Rabi,1.49,Not clearly visible,1455.2,28.0,78.0,6.9
+Maharashtra,GADCHIROLI,Maize,Summer,1.39,Not clearly visible,1455.2,28.0,78.0,6.25
+Maharashtra,GONDIA,Maize,Kharif,0.4,Not clearly visible,No data,28.0,76.0,6.68
+Maharashtra,GONDIA,Maize,Rabi,0.79,Not clearly visible,No data,28.0,76.0,6.79
+Maharashtra,GONDIA,Maize,Summer,1.2,Not clearly visible,No data,28.0,76.0,6.01
+Maharashtra,HINGOLI,Maize,Kharif,0.43,Coarse Soil,No data,26.5,71.0,6.12
+Maharashtra,HINGOLI,Maize,Rabi,1.26,Coarse Soil,No data,26.5,71.0,6.64
+Maharashtra,HINGOLI,Maize,Summer,0.85,Coarse Soil,No data,26.5,71.0,6.4
+Maharashtra,JALGAON,Maize,Kharif,0.76,Coarse Soil,734.0,26.0,67.0,5.5
+Maharashtra,JALGAON,Maize,Rabi,3.15,Coarse Soil,734.0,26.0,67.0,5.66
+Maharashtra,JALGAON,Maize,Summer,3.6,Coarse Soil,734.0,26.0,67.0,5.56
+Maharashtra,JALNA,Maize,Kharif,3.37,Coarse Soil,No data,26.0,69.0,6.38
+Maharashtra,JALNA,Maize,Rabi,3.84,Coarse Soil,No data,26.0,69.0,6.87
+Maharashtra,JALNA,Maize,Summer,2.5,Coarse Soil,No data,26.0,69.0,6.25
+Maharashtra,KOLHAPUR,Maize,Kharif,2.69,Laterite Soil,1655.3,26.5,73.0,5.9
+Maharashtra,KOLHAPUR,Maize,Rabi,2.85,Laterite Soil,1655.3,26.5,73.0,5.62
+Maharashtra,KOLHAPUR,Maize,Summer,2.43,Laterite Soil,1655.3,26.5,73.0,5.68
+Maharashtra,LATUR,Maize,Kharif,0.22,Coarse Soil,No data,26.0,70.0,6.22
+Maharashtra,LATUR,Maize,Rabi,1.3,Coarse Soil,No data,26.0,70.0,7.2
+Maharashtra,NAGPUR,Maize,Kharif,2.27,Coarse Soil,1129.5,28.5,77.0,6.7
+Maharashtra,NAGPUR,Maize,Rabi,1.75,Coarse Soil,1129.5,28.5,77.0,5.54
+Maharashtra,NAGPUR,Maize,Summer,1.14,Coarse Soil,1129.5,28.5,77.0,7.46
+Maharashtra,NANDED,Maize,Kharif,0.59,Coarse Soil,No data,27.0,72.0,7.49
+Maharashtra,NANDED,Maize,Rabi,1.8,Coarse Soil,No data,27.0,72.0,5.55
+Maharashtra,NANDED,Maize,Summer,1.24,Coarse Soil,No data,27.0,72.0,5.66
+Maharashtra,NANDURBAR,Maize,Kharif,1.9,Not clearly visible,835.5,27.0,68.0,6.63
+Maharashtra,NANDURBAR,Maize,Rabi,2.88,Not clearly visible,835.5,27.0,68.0,7.3
+Maharashtra,NANDURBAR,Maize,Summer,1.63,Not clearly visible,835.5,27.0,68.0,7.1
+Maharashtra,NASHIK,Maize,Kharif,1.54,Coarse Soil,578.8,26.5,70.0,6.06
+Maharashtra,NASHIK,Maize,Rabi,2.89,Coarse Soil,578.8,26.5,70.0,5.74
+Maharashtra,NASHIK,Maize,Summer,2.52,Coarse Soil,578.8,26.5,70.0,6.06
+Maharashtra,OSMANABAD,Maize,Kharif,0.53,Coarse Soil,No data,26.0,69.0,5.51
+Maharashtra,OSMANABAD,Maize,Rabi,1.81,Coarse Soil,No data,26.0,69.0,7.13
+Maharashtra,OSMANABAD,Maize,Summer,0.95,Coarse Soil,No data,26.0,69.0,6.94
+Maharashtra,PALGHAR,Maize,Rabi,3.5,Multiple soil types,No data,27.5,80.0,5.65
+Maharashtra,PARBHANI,Maize,Kharif,0.72,Coarse Soil,No data,27.0,68.0,6.83
+Maharashtra,PARBHANI,Maize,Rabi,1.26,Coarse Soil,No data,27.0,68.0,6.28
+Maharashtra,PARBHANI,Maize,Summer,1.21,Coarse Soil,No data,27.0,68.0,7.44
+Maharashtra,PUNE,Maize,Kharif,3.56,Multiple soil types,613.3,26.0,65.0,6.54
+Maharashtra,PUNE,Maize,Rabi,4.2,Multiple soil types,613.3,26.0,65.0,5.6
+Maharashtra,PUNE,Maize,Summer,2.5,Multiple soil types,613.3,26.0,65.0,5.51
+Maharashtra,RATNAGIRI,Maize,Rabi,2.61,Laterite Soil,No data,27.0,74.0,5.78
+Maharashtra,SANGLI,Maize,Kharif,1.85,Coarse Soil,614.3,26.5,70.0,5.93
+Maharashtra,SANGLI,Maize,Rabi,2.1,Coarse Soil,614.3,26.5,70.0,5.94
+Maharashtra,SANGLI,Maize,Summer,2.0,Coarse Soil,614.3,26.5,70.0,6.44
+Maharashtra,SATARA,Maize,Kharif,1.4,Multiple soil types,1376.2,26.5,68.0,5.5
+Maharashtra,SATARA,Maize,Rabi,3.41,Multiple soil types,1376.2,26.5,68.0,5.63
+Maharashtra,SATARA,Maize,Summer,1.85,Multiple soil types,1376.2,26.5,68.0,5.51
+Maharashtra,SINDHUDURG,Maize,Rabi,3.17,Laterite Soil,No data,28.0,80.0,5.78
+Maharashtra,SOLAPUR,Maize,Kharif,1.23,Coarse Soil,545.4,27.0,70.0,7.08
+Maharashtra,SOLAPUR,Maize,Rabi,2.33,Coarse Soil,545.4,27.0,70.0,7.2
+Maharashtra,SOLAPUR,Maize,Summer,2.6,Coarse Soil,545.4,27.0,70.0,7.1
+Maharashtra,WARDHA,Maize,Kharif,1.62,Coarse Soil,No data,28.5,78.0,7.01
+Maharashtra,WARDHA,Maize,Rabi,1.05,Coarse Soil,No data,28.5,78.0,5.54
+Maharashtra,WASHIM,Maize,Kharif,1.84,Coarse Soil,No data,27.0,68.0,5.68
+Maharashtra,WASHIM,Maize,Rabi,0.34,Coarse Soil,No data,27.0,68.0,6.91
+Maharashtra,YAVATMAL,Maize,Kharif,0.15,Coarse Soil,No data,27.5,70.0,7.3
+Maharashtra,YAVATMAL,Maize,Rabi,0.94,Coarse Soil,No data,27.5,70.0,5.87
+Maharashtra,AHMEDNAGAR,Moong(Green Gram),Kharif,0.16,Coarse Soil,567.2,26.0,70.0,7.19
+Maharashtra,AKOLA,Moong(Green Gram),Kharif,0.4,Coarse Soil,779.5,27.5,65.0,5.7
+Maharashtra,AMRAVATI,Moong(Green Gram),Kharif,0.15,Coarse Soil,890.9,27.0,68.0,7.47
+Maharashtra,AURANGABAD,Moong(Green Gram),Kharif,0.51,Coarse Soil,715.4,26.5,72.0,7.25
+Maharashtra,BEED,Moong(Green Gram),Kharif,0.21,Coarse Soil,691.0,26.0,69.0,7.38
+Maharashtra,BHANDARA,Moong(Green Gram),Kharif,0.2,Not clearly visible,1290.9,28.0,75.0,6.44
+Maharashtra,BULDHANA,Moong(Green Gram),Kharif,0.77,Coarse Soil,804.5,27.0,70.0,6.21
+Maharashtra,CHANDRAPUR,Moong(Green Gram),Kharif,0.35,Coarse Soil,1384.4,29.0,80.0,6.35
+Maharashtra,DHULE,Moong(Green Gram),Kharif,0.45,Coarse Soil,585.8,27.0,66.0,5.51
+Maharashtra,GADCHIROLI,Moong(Green Gram),Kharif,0.2,Not clearly visible,1455.2,28.0,78.0,6.14
+Maharashtra,GONDIA,Moong(Green Gram),Kharif,0.38,Not clearly visible,No data,28.0,76.0,7.0
+Maharashtra,HINGOLI,Moong(Green Gram),Kharif,0.69,Coarse Soil,No data,26.5,71.0,6.48
+Maharashtra,JALGAON,Moong(Green Gram),Kharif,0.52,Coarse Soil,734.0,26.0,67.0,6.5
+Maharashtra,JALNA,Moong(Green Gram),Kharif,0.64,Coarse Soil,No data,26.0,69.0,6.23
+Maharashtra,KOLHAPUR,Moong(Green Gram),Kharif,0.65,Laterite Soil,1655.3,26.5,73.0,5.95
+Maharashtra,LATUR,Moong(Green Gram),Kharif,0.45,Coarse Soil,No data,26.0,70.0,7.31
+Maharashtra,NAGPUR,Moong(Green Gram),Kharif,0.4,Coarse Soil,1129.5,28.5,77.0,6.5
+Maharashtra,NANDED,Moong(Green Gram),Kharif,0.49,Coarse Soil,No data,27.0,72.0,6.87
+Maharashtra,NANDURBAR,Moong(Green Gram),Kharif,0.5,Not clearly visible,835.5,27.0,68.0,7.38
+Maharashtra,NASHIK,Moong(Green Gram),Kharif,0.63,Coarse Soil,578.8,26.5,70.0,6.38
+Maharashtra,OSMANABAD,Moong(Green Gram),Kharif,0.27,Coarse Soil,No data,26.0,69.0,5.78
+Maharashtra,PARBHANI,Moong(Green Gram),Kharif,0.4,Coarse Soil,No data,27.0,68.0,5.7
+Maharashtra,PUNE,Moong(Green Gram),Kharif,0.26,Multiple soil types,613.3,26.0,65.0,6.38
+Maharashtra,SANGLI,Moong(Green Gram),Kharif,0.2,Coarse Soil,614.3,26.5,70.0,7.03
+Maharashtra,SATARA,Moong(Green Gram),Kharif,0.36,Multiple soil types,1376.2,26.5,68.0,6.55
+Maharashtra,SOLAPUR,Moong(Green Gram),Kharif,0.35,Coarse Soil,545.4,27.0,70.0,6.49
+Maharashtra,WARDHA,Moong(Green Gram),Kharif,0.39,Coarse Soil,No data,28.5,78.0,6.55
+Maharashtra,WASHIM,Moong(Green Gram),Kharif,0.46,Coarse Soil,No data,27.0,68.0,6.13
+Maharashtra,YAVATMAL,Moong(Green Gram),Kharif,0.35,Coarse Soil,No data,27.5,70.0,6.18
+Maharashtra,AHMEDNAGAR,Niger seed,Kharif,0.15,Coarse Soil,567.2,26.0,70.0,5.72
+Maharashtra,AKOLA,Niger seed,Kharif,0.15,Coarse Soil,779.5,27.5,65.0,5.78
+Maharashtra,AURANGABAD,Niger seed,Kharif,0.0,Coarse Soil,715.4,26.5,72.0,6.09
+Maharashtra,BEED,Niger seed,Kharif,0.07,Coarse Soil,691.0,26.0,69.0,6.71
+Maharashtra,DHULE,Niger seed,Kharif,0.15,Coarse Soil,585.8,27.0,66.0,6.7
+Maharashtra,HINGOLI,Niger seed,Kharif,0.14,Coarse Soil,No data,26.5,71.0,6.08
+Maharashtra,JALNA,Niger seed,Kharif,0.1,Coarse Soil,No data,26.0,69.0,5.79
+Maharashtra,KOLHAPUR,Niger seed,Kharif,0.4,Laterite Soil,1655.3,26.5,73.0,5.48
+Maharashtra,LATUR,Niger seed,Kharif,0.27,Coarse Soil,No data,26.0,70.0,6.63
+Maharashtra,NANDED,Niger seed,Kharif,0.13,Coarse Soil,No data,27.0,72.0,7.3
+Maharashtra,NASHIK,Niger seed,Kharif,0.15,Coarse Soil,578.8,26.5,70.0,6.03
+Maharashtra,OSMANABAD,Niger seed,Kharif,0.14,Coarse Soil,No data,26.0,69.0,6.45
+Maharashtra,PARBHANI,Niger seed,Kharif,0.17,Coarse Soil,No data,27.0,68.0,5.53
+Maharashtra,PUNE,Niger seed,Kharif,0.14,Multiple soil types,613.3,26.0,65.0,6.61
+Maharashtra,RAIGAD,Niger seed,Kharif,0.25,Laterite Soil,3414.2,27.0,75.0,5.66
+Maharashtra,SATARA,Niger seed,Kharif,0.37,Multiple soil types,1376.2,26.5,68.0,6.71
+Maharashtra,SOLAPUR,Niger seed,Kharif,0.11,Coarse Soil,545.4,27.0,70.0,6.6
+Maharashtra,WASHIM,Niger seed,Kharif,0.17,Coarse Soil,No data,27.0,68.0,6.26
+Maharashtra,AHMEDNAGAR,Other  Rabi pulses,Rabi,0.3,Coarse Soil,567.2,26.0,70.0,6.61
+Maharashtra,AMRAVATI,Other  Rabi pulses,Rabi,0.47,Coarse Soil,890.9,27.0,68.0,6.85
+Maharashtra,AURANGABAD,Other  Rabi pulses,Rabi,0.33,Coarse Soil,715.4,26.5,72.0,7.44
+Maharashtra,BEED,Other  Rabi pulses,Rabi,0.5,Coarse Soil,691.0,26.0,69.0,5.77
+Maharashtra,BHANDARA,Other  Rabi pulses,Rabi,0.72,Not clearly visible,1290.9,28.0,75.0,7.35
+Maharashtra,BULDHANA,Other  Rabi pulses,Rabi,0.3,Coarse Soil,804.5,27.0,70.0,7.43
+Maharashtra,CHANDRAPUR,Other  Rabi pulses,Rabi,0.58,Coarse Soil,1384.4,29.0,80.0,6.38
+Maharashtra,DHULE,Other  Rabi pulses,Rabi,0.5,Coarse Soil,585.8,27.0,66.0,6.45
+Maharashtra,GADCHIROLI,Other  Rabi pulses,Rabi,0.38,Not clearly visible,1455.2,28.0,78.0,6.99
+Maharashtra,GONDIA,Other  Rabi pulses,Rabi,0.47,Not clearly visible,No data,28.0,76.0,7.26
+Maharashtra,HINGOLI,Other  Rabi pulses,Rabi,0.35,Coarse Soil,No data,26.5,71.0,7.13
+Maharashtra,JALGAON,Other  Rabi pulses,Rabi,0.77,Coarse Soil,734.0,26.0,67.0,6.09
+Maharashtra,KOLHAPUR,Other  Rabi pulses,Rabi,0.42,Laterite Soil,1655.3,26.5,73.0,5.29
+Maharashtra,LATUR,Other  Rabi pulses,Rabi,0.32,Coarse Soil,No data,26.0,70.0,7.39
+Maharashtra,NAGPUR,Other  Rabi pulses,Rabi,0.54,Coarse Soil,1129.5,28.5,77.0,6.38
+Maharashtra,NANDED,Other  Rabi pulses,Rabi,0.33,Coarse Soil,No data,27.0,72.0,7.33
+Maharashtra,NANDURBAR,Other  Rabi pulses,Rabi,0.38,Not clearly visible,835.5,27.0,68.0,6.4
+Maharashtra,NASHIK,Other  Rabi pulses,Rabi,0.33,Coarse Soil,578.8,26.5,70.0,5.77
+Maharashtra,OSMANABAD,Other  Rabi pulses,Rabi,0.36,Coarse Soil,No data,26.0,69.0,6.08
+Maharashtra,PALGHAR,Other  Rabi pulses,Rabi,0.75,Multiple soil types,No data,27.5,80.0,6.66
+Maharashtra,PARBHANI,Other  Rabi pulses,Rabi,0.53,Coarse Soil,No data,27.0,68.0,5.71
+Maharashtra,PUNE,Other  Rabi pulses,Rabi,0.28,Multiple soil types,613.3,26.0,65.0,5.59
+Maharashtra,RAIGAD,Other  Rabi pulses,Rabi,0.35,Laterite Soil,3414.2,27.0,75.0,5.56
+Maharashtra,RATNAGIRI,Other  Rabi pulses,Rabi,0.75,Laterite Soil,No data,27.0,74.0,5.98
+Maharashtra,SANGLI,Other  Rabi pulses,Rabi,0.3,Coarse Soil,614.3,26.5,70.0,5.64
+Maharashtra,SATARA,Other  Rabi pulses,Rabi,0.54,Multiple soil types,1376.2,26.5,68.0,6.66
+Maharashtra,SINDHUDURG,Other  Rabi pulses,Rabi,0.67,Laterite Soil,No data,28.0,80.0,5.96
+Maharashtra,SOLAPUR,Other  Rabi pulses,Rabi,0.3,Coarse Soil,545.4,27.0,70.0,6.89
+Maharashtra,THANE,Other  Rabi pulses,Rabi,0.73,Multiple soil types,2573.9,27.5,76.0,6.26
+Maharashtra,AHMEDNAGAR,Other Cereals,Kharif,0.22,Coarse Soil,567.2,26.0,70.0,6.64
+Maharashtra,AHMEDNAGAR,Other Cereals,Rabi,0.13,Coarse Soil,567.2,26.0,70.0,5.66
+Maharashtra,AHMEDNAGAR,Other Cereals,Summer,1.58,Coarse Soil,567.2,26.0,70.0,6.43
+Maharashtra,AURANGABAD,Other Cereals,Kharif,0.43,Coarse Soil,715.4,26.5,72.0,7.35
+Maharashtra,AURANGABAD,Other Cereals,Rabi,0.25,Coarse Soil,715.4,26.5,72.0,5.7
+Maharashtra,AURANGABAD,Other Cereals,Summer,1.79,Coarse Soil,715.4,26.5,72.0,6.19
+Maharashtra,BEED,Other Cereals,Kharif,0.3,Coarse Soil,691.0,26.0,69.0,6.52
+Maharashtra,BEED,Other Cereals,Rabi,0.4,Coarse Soil,691.0,26.0,69.0,6.63
+Maharashtra,BEED,Other Cereals,Summer,1.5,Coarse Soil,691.0,26.0,69.0,6.41
+Maharashtra,BULDHANA,Other Cereals,Kharif,0.45,Coarse Soil,804.5,27.0,70.0,6.35
+Maharashtra,BULDHANA,Other Cereals,Rabi,0.44,Coarse Soil,804.5,27.0,70.0,5.88
+Maharashtra,CHANDRAPUR,Other Cereals,Kharif,0.68,Coarse Soil,1384.4,29.0,80.0,5.78
+Maharashtra,CHANDRAPUR,Other Cereals,Rabi,0.46,Coarse Soil,1384.4,29.0,80.0,6.27
+Maharashtra,DHULE,Other Cereals,Kharif,0.55,Coarse Soil,585.8,27.0,66.0,6.0
+Maharashtra,DHULE,Other Cereals,Rabi,1.2,Coarse Soil,585.8,27.0,66.0,7.11
+Maharashtra,DHULE,Other Cereals,Summer,0.98,Coarse Soil,585.8,27.0,66.0,5.58
+Maharashtra,HINGOLI,Other Cereals,Kharif,0.37,Coarse Soil,No data,26.5,71.0,6.8
+Maharashtra,HINGOLI,Other Cereals,Rabi,0.44,Coarse Soil,No data,26.5,71.0,6.81
+Maharashtra,JALGAON,Other Cereals,Kharif,0.47,Coarse Soil,734.0,26.0,67.0,6.69
+Maharashtra,JALGAON,Other Cereals,Rabi,0.58,Coarse Soil,734.0,26.0,67.0,6.18
+Maharashtra,JALGAON,Other Cereals,Summer,1.2,Coarse Soil,734.0,26.0,67.0,6.99
+Maharashtra,JALNA,Other Cereals,Kharif,0.09,Coarse Soil,No data,26.0,69.0,6.19
+Maharashtra,JALNA,Other Cereals,Summer,0.95,Coarse Soil,No data,26.0,69.0,6.66
+Maharashtra,KOLHAPUR,Other Cereals,Kharif,0.5,Laterite Soil,1655.3,26.5,73.0,5.95
+Maharashtra,KOLHAPUR,Other Cereals,Rabi,0.34,Laterite Soil,1655.3,26.5,73.0,4.61
+Maharashtra,LATUR,Other Cereals,Kharif,0.23,Coarse Soil,No data,26.0,70.0,6.98
+Maharashtra,LATUR,Other Cereals,Rabi,0.23,Coarse Soil,No data,26.0,70.0,5.64
+Maharashtra,NAGPUR,Other Cereals,Kharif,0.4,Coarse Soil,1129.5,28.5,77.0,7.28
+Maharashtra,NAGPUR,Other Cereals,Rabi,0.01,Coarse Soil,1129.5,28.5,77.0,6.52
+Maharashtra,NANDED,Other Cereals,Kharif,3.33,Coarse Soil,No data,27.0,72.0,5.72
+Maharashtra,NANDED,Other Cereals,Rabi,0.22,Coarse Soil,No data,27.0,72.0,6.8
+Maharashtra,NANDED,Other Cereals,Summer,1.19,Coarse Soil,No data,27.0,72.0,7.49
+Maharashtra,NANDURBAR,Other Cereals,Kharif,0.89,Not clearly visible,835.5,27.0,68.0,5.76
+Maharashtra,NANDURBAR,Other Cereals,Rabi,0.36,Not clearly visible,835.5,27.0,68.0,6.66
+Maharashtra,NANDURBAR,Other Cereals,Summer,1.09,Not clearly visible,835.5,27.0,68.0,7.02
+Maharashtra,NASHIK,Other Cereals,Kharif,0.48,Coarse Soil,578.8,26.5,70.0,6.9
+Maharashtra,NASHIK,Other Cereals,Summer,1.23,Coarse Soil,578.8,26.5,70.0,7.1
+Maharashtra,OSMANABAD,Other Cereals,Kharif,0.28,Coarse Soil,No data,26.0,69.0,7.33
+Maharashtra,OSMANABAD,Other Cereals,Rabi,0.34,Coarse Soil,No data,26.0,69.0,5.57
+Maharashtra,PALGHAR,Other Cereals,Kharif,0.54,Multiple soil types,No data,27.5,80.0,6.34
+Maharashtra,PARBHANI,Other Cereals,Kharif,0.36,Coarse Soil,No data,27.0,68.0,6.0
+Maharashtra,PARBHANI,Other Cereals,Rabi,0.26,Coarse Soil,No data,27.0,68.0,6.55
+Maharashtra,PUNE,Other Cereals,Kharif,0.85,Multiple soil types,613.3,26.0,65.0,5.53
+Maharashtra,PUNE,Other Cereals,Rabi,0.23,Multiple soil types,613.3,26.0,65.0,6.18
+Maharashtra,PUNE,Other Cereals,Summer,0.83,Multiple soil types,613.3,26.0,65.0,5.57
+Maharashtra,RAIGAD,Other Cereals,Kharif,0.43,Laterite Soil,3414.2,27.0,75.0,5.95
+Maharashtra,RATNAGIRI,Other Cereals,Kharif,0.5,Laterite Soil,No data,27.0,74.0,5.36
+Maharashtra,RATNAGIRI,Other Cereals,Rabi,1.0,Laterite Soil,No data,27.0,74.0,5.94
+Maharashtra,SANGLI,Other Cereals,Kharif,0.1,Coarse Soil,614.3,26.5,70.0,6.29
+Maharashtra,SATARA,Other Cereals,Kharif,0.45,Multiple soil types,1376.2,26.5,68.0,6.77
+Maharashtra,SATARA,Other Cereals,Rabi,0.33,Multiple soil types,1376.2,26.5,68.0,6.38
+Maharashtra,SINDHUDURG,Other Cereals,Kharif,0.51,Laterite Soil,No data,28.0,80.0,5.73
+Maharashtra,SINDHUDURG,Other Cereals,Rabi,0.95,Laterite Soil,No data,28.0,80.0,5.28
+Maharashtra,SOLAPUR,Other Cereals,Kharif,0.29,Coarse Soil,545.4,27.0,70.0,5.73
+Maharashtra,SOLAPUR,Other Cereals,Rabi,0.19,Coarse Soil,545.4,27.0,70.0,5.67
+Maharashtra,SOLAPUR,Other Cereals,Summer,1.77,Coarse Soil,545.4,27.0,70.0,6.32
+Maharashtra,THANE,Other Cereals,Kharif,0.52,Multiple soil types,2573.9,27.5,76.0,5.59
+Maharashtra,WARDHA,Other Cereals,Kharif,0.33,Coarse Soil,No data,28.5,78.0,7.23
+Maharashtra,WASHIM,Other Cereals,Kharif,0.73,Coarse Soil,No data,27.0,68.0,6.79
+Maharashtra,WASHIM,Other Cereals,Rabi,0.33,Coarse Soil,No data,27.0,68.0,5.99
+Maharashtra,WASHIM,Other Cereals,Summer,0.0,Coarse Soil,No data,27.0,68.0,7.19
+Maharashtra,AHMEDNAGAR,Other Kharif pulses,Kharif,0.12,Coarse Soil,567.2,26.0,70.0,6.6
+Maharashtra,AURANGABAD,Other Kharif pulses,Kharif,0.21,Coarse Soil,715.4,26.5,72.0,5.89
+Maharashtra,BEED,Other Kharif pulses,Kharif,0.23,Coarse Soil,691.0,26.0,69.0,6.93
+Maharashtra,BHANDARA,Other Kharif pulses,Kharif,0.5,Not clearly visible,1290.9,28.0,75.0,6.49
+Maharashtra,BULDHANA,Other Kharif pulses,Kharif,0.3,Coarse Soil,804.5,27.0,70.0,7.41
+Maharashtra,CHANDRAPUR,Other Kharif pulses,Kharif,0.55,Coarse Soil,1384.4,29.0,80.0,7.06
+Maharashtra,DHULE,Other Kharif pulses,Kharif,0.35,Coarse Soil,585.8,27.0,66.0,6.17
+Maharashtra,GADCHIROLI,Other Kharif pulses,Kharif,0.29,Not clearly visible,1455.2,28.0,78.0,6.68
+Maharashtra,GONDIA,Other Kharif pulses,Kharif,0.47,Not clearly visible,No data,28.0,76.0,6.16
+Maharashtra,HINGOLI,Other Kharif pulses,Kharif,0.08,Coarse Soil,No data,26.5,71.0,6.77
+Maharashtra,JALGAON,Other Kharif pulses,Kharif,0.33,Coarse Soil,734.0,26.0,67.0,6.23
+Maharashtra,JALNA,Other Kharif pulses,Kharif,0.06,Coarse Soil,No data,26.0,69.0,6.64
+Maharashtra,KOLHAPUR,Other Kharif pulses,Kharif,0.68,Laterite Soil,1655.3,26.5,73.0,5.2
+Maharashtra,LATUR,Other Kharif pulses,Kharif,0.18,Coarse Soil,No data,26.0,70.0,6.99
+Maharashtra,NAGPUR,Other Kharif pulses,Kharif,0.37,Coarse Soil,1129.5,28.5,77.0,6.5
+Maharashtra,NANDED,Other Kharif pulses,Kharif,0.15,Coarse Soil,No data,27.0,72.0,6.29
+Maharashtra,NANDURBAR,Other Kharif pulses,Kharif,0.33,Not clearly visible,835.5,27.0,68.0,6.82
+Maharashtra,NASHIK,Other Kharif pulses,Kharif,0.47,Coarse Soil,578.8,26.5,70.0,6.41
+Maharashtra,OSMANABAD,Other Kharif pulses,Kharif,0.19,Coarse Soil,No data,26.0,69.0,7.31
+Maharashtra,PALGHAR,Other Kharif pulses,Kharif,0.54,Multiple soil types,No data,27.5,80.0,6.98
+Maharashtra,PARBHANI,Other Kharif pulses,Kharif,0.14,Coarse Soil,No data,27.0,68.0,7.3
+Maharashtra,PUNE,Other Kharif pulses,Kharif,0.38,Multiple soil types,613.3,26.0,65.0,6.91
+Maharashtra,RATNAGIRI,Other Kharif pulses,Kharif,0.5,Laterite Soil,No data,27.0,74.0,4.55
+Maharashtra,SANGLI,Other Kharif pulses,Kharif,0.21,Coarse Soil,614.3,26.5,70.0,5.86
+Maharashtra,SATARA,Other Kharif pulses,Kharif,0.61,Multiple soil types,1376.2,26.5,68.0,5.53
+Maharashtra,SINDHUDURG,Other Kharif pulses,Kharif,0.45,Laterite Soil,No data,28.0,80.0,4.8
+Maharashtra,SOLAPUR,Other Kharif pulses,Kharif,0.24,Coarse Soil,545.4,27.0,70.0,6.94
+Maharashtra,THANE,Other Kharif pulses,Kharif,0.5,Multiple soil types,2573.9,27.5,76.0,6.52
+Maharashtra,WASHIM,Other Kharif pulses,Kharif,0.45,Coarse Soil,No data,27.0,68.0,6.58
+Maharashtra,AHMEDNAGAR,other oilseeds,Kharif,0.2,Coarse Soil,567.2,26.0,70.0,6.51
+Maharashtra,AHMEDNAGAR,other oilseeds,Rabi,0.06,Coarse Soil,567.2,26.0,70.0,6.18
+Maharashtra,AMRAVATI,other oilseeds,Rabi,0.4,Coarse Soil,890.9,27.0,68.0,5.63
+Maharashtra,AURANGABAD,other oilseeds,Kharif,0.15,Coarse Soil,715.4,26.5,72.0,7.49
+Maharashtra,AURANGABAD,other oilseeds,Rabi,0.3,Coarse Soil,715.4,26.5,72.0,6.98
+Maharashtra,BEED,other oilseeds,Kharif,0.2,Coarse Soil,691.0,26.0,69.0,7.02
+Maharashtra,BEED,other oilseeds,Rabi,0.3,Coarse Soil,691.0,26.0,69.0,7.44
+Maharashtra,BHANDARA,other oilseeds,Rabi,1.0,Not clearly visible,1290.9,28.0,75.0,7.07
+Maharashtra,BULDHANA,other oilseeds,Kharif,0.5,Coarse Soil,804.5,27.0,70.0,6.97
+Maharashtra,BULDHANA,other oilseeds,Rabi,0.43,Coarse Soil,804.5,27.0,70.0,7.14
+Maharashtra,CHANDRAPUR,other oilseeds,Rabi,0.35,Coarse Soil,1384.4,29.0,80.0,7.14
+Maharashtra,DHULE,other oilseeds,Kharif,0.45,Coarse Soil,585.8,27.0,66.0,6.81
+Maharashtra,DHULE,other oilseeds,Rabi,0.15,Coarse Soil,585.8,27.0,66.0,5.77
+Maharashtra,DHULE,other oilseeds,Summer,0.75,Coarse Soil,585.8,27.0,66.0,7.1
+Maharashtra,GADCHIROLI,other oilseeds,Rabi,0.28,Not clearly visible,1455.2,28.0,78.0,5.74
+Maharashtra,GONDIA,other oilseeds,Rabi,0.38,Not clearly visible,No data,28.0,76.0,7.41
+Maharashtra,HINGOLI,other oilseeds,Kharif,0.16,Coarse Soil,No data,26.5,71.0,5.67
+Maharashtra,HINGOLI,other oilseeds,Summer,0.0,Coarse Soil,No data,26.5,71.0,5.82
+Maharashtra,JALGAON,other oilseeds,Kharif,0.2,Coarse Soil,734.0,26.0,67.0,6.37
+Maharashtra,JALGAON,other oilseeds,Summer,0.64,Coarse Soil,734.0,26.0,67.0,6.12
+Maharashtra,JALNA,other oilseeds,Kharif,0.14,Coarse Soil,No data,26.0,69.0,6.7
+Maharashtra,JALNA,other oilseeds,Rabi,0.13,Coarse Soil,No data,26.0,69.0,7.42
+Maharashtra,JALNA,other oilseeds,Summer,0.0,Coarse Soil,No data,26.0,69.0,6.96
+Maharashtra,KOLHAPUR,other oilseeds,Rabi,0.17,Laterite Soil,1655.3,26.5,73.0,4.94
+Maharashtra,LATUR,other oilseeds,Kharif,0.21,Coarse Soil,No data,26.0,70.0,5.78
+Maharashtra,LATUR,other oilseeds,Rabi,0.33,Coarse Soil,No data,26.0,70.0,7.36
+Maharashtra,NAGPUR,other oilseeds,Kharif,0.33,Coarse Soil,1129.5,28.5,77.0,5.9
+Maharashtra,NAGPUR,other oilseeds,Rabi,0.32,Coarse Soil,1129.5,28.5,77.0,6.95
+Maharashtra,NANDED,other oilseeds,Kharif,0.2,Coarse Soil,No data,27.0,72.0,6.48
+Maharashtra,NANDED,other oilseeds,Rabi,0.22,Coarse Soil,No data,27.0,72.0,6.35
+Maharashtra,NANDED,other oilseeds,Summer,0.0,Coarse Soil,No data,27.0,72.0,6.11
+Maharashtra,NANDURBAR,other oilseeds,Kharif,0.26,Not clearly visible,835.5,27.0,68.0,6.24
+Maharashtra,NANDURBAR,other oilseeds,Rabi,0.24,Not clearly visible,835.5,27.0,68.0,6.5
+Maharashtra,NANDURBAR,other oilseeds,Summer,0.88,Not clearly visible,835.5,27.0,68.0,5.68
+Maharashtra,NASHIK,other oilseeds,Kharif,0.46,Coarse Soil,578.8,26.5,70.0,5.99
+Maharashtra,NASHIK,other oilseeds,Rabi,1.88,Coarse Soil,578.8,26.5,70.0,6.78
+Maharashtra,OSMANABAD,other oilseeds,Kharif,0.21,Coarse Soil,No data,26.0,69.0,7.02
+Maharashtra,OSMANABAD,other oilseeds,Rabi,0.31,Coarse Soil,No data,26.0,69.0,6.15
+Maharashtra,PALGHAR,other oilseeds,Rabi,0.6,Multiple soil types,No data,27.5,80.0,5.54
+Maharashtra,PARBHANI,other oilseeds,Kharif,0.25,Coarse Soil,No data,27.0,68.0,6.46
+Maharashtra,PARBHANI,other oilseeds,Rabi,0.16,Coarse Soil,No data,27.0,68.0,5.97
+Maharashtra,PARBHANI,other oilseeds,Summer,0.0,Coarse Soil,No data,27.0,68.0,5.57
+Maharashtra,PUNE,other oilseeds,Kharif,0.22,Multiple soil types,613.3,26.0,65.0,5.95
+Maharashtra,PUNE,other oilseeds,Rabi,0.16,Multiple soil types,613.3,26.0,65.0,6.37
+Maharashtra,RAIGAD,other oilseeds,Rabi,0.65,Laterite Soil,3414.2,27.0,75.0,5.91
+Maharashtra,RATNAGIRI,other oilseeds,Kharif,0.25,Laterite Soil,No data,27.0,74.0,5.74
+Maharashtra,RATNAGIRI,other oilseeds,Rabi,0.65,Laterite Soil,No data,27.0,74.0,5.5
+Maharashtra,SANGLI,other oilseeds,Kharif,0.18,Coarse Soil,614.3,26.5,70.0,6.39
+Maharashtra,SANGLI,other oilseeds,Rabi,0.0,Coarse Soil,614.3,26.5,70.0,5.8
+Maharashtra,SATARA,other oilseeds,Kharif,0.33,Multiple soil types,1376.2,26.5,68.0,6.26
+Maharashtra,SATARA,other oilseeds,Rabi,0.17,Multiple soil types,1376.2,26.5,68.0,5.73
+Maharashtra,SINDHUDURG,other oilseeds,Rabi,0.57,Laterite Soil,No data,28.0,80.0,5.12
+Maharashtra,SOLAPUR,other oilseeds,Kharif,0.25,Coarse Soil,545.4,27.0,70.0,6.32
+Maharashtra,SOLAPUR,other oilseeds,Rabi,0.18,Coarse Soil,545.4,27.0,70.0,6.47
+Maharashtra,SOLAPUR,other oilseeds,Summer,0.63,Coarse Soil,545.4,27.0,70.0,6.52
+Maharashtra,THANE,other oilseeds,Rabi,0.43,Multiple soil types,2573.9,27.5,76.0,6.6
+Maharashtra,WARDHA,other oilseeds,Kharif,0.29,Coarse Soil,No data,28.5,78.0,5.52
+Maharashtra,WASHIM,other oilseeds,Kharif,0.53,Coarse Soil,No data,27.0,68.0,6.65
+Maharashtra,WASHIM,other oilseeds,Rabi,0.17,Coarse Soil,No data,27.0,68.0,6.74
+Maharashtra,YAVATMAL,other oilseeds,Rabi,0.4,Coarse Soil,No data,27.5,70.0,7.49
+Maharashtra,AHMEDNAGAR,Other Summer Pulses,Summer,0.94,Coarse Soil,567.2,26.0,70.0,7.28
+Maharashtra,AKOLA,Other Summer Pulses,Summer,0.19,Coarse Soil,779.5,27.5,65.0,7.19
+Maharashtra,AMRAVATI,Other Summer Pulses,Summer,0.7,Coarse Soil,890.9,27.0,68.0,5.64
+Maharashtra,BEED,Other Summer Pulses,Summer,1.28,Coarse Soil,691.0,26.0,69.0,5.88
+Maharashtra,BHANDARA,Other Summer Pulses,Summer,0.26,Not clearly visible,1290.9,28.0,75.0,5.82
+Maharashtra,BULDHANA,Other Summer Pulses,Summer,0.2,Coarse Soil,804.5,27.0,70.0,6.92
+Maharashtra,CHANDRAPUR,Other Summer Pulses,Summer,0.23,Coarse Soil,1384.4,29.0,80.0,6.36
+Maharashtra,GADCHIROLI,Other Summer Pulses,Summer,0.42,Not clearly visible,1455.2,28.0,78.0,6.28
+Maharashtra,GONDIA,Other Summer Pulses,Summer,0.28,Not clearly visible,No data,28.0,76.0,5.86
+Maharashtra,HINGOLI,Other Summer Pulses,Summer,0.0,Coarse Soil,No data,26.5,71.0,6.78
+Maharashtra,JALGAON,Other Summer Pulses,Summer,0.25,Coarse Soil,734.0,26.0,67.0,6.32
+Maharashtra,JALNA,Other Summer Pulses,Summer,0.94,Coarse Soil,No data,26.0,69.0,7.07
+Maharashtra,KOLHAPUR,Other Summer Pulses,Summer,0.46,Laterite Soil,1655.3,26.5,73.0,4.56
+Maharashtra,NAGPUR,Other Summer Pulses,Summer,0.24,Coarse Soil,1129.5,28.5,77.0,5.98
+Maharashtra,NANDURBAR,Other Summer Pulses,Summer,0.43,Not clearly visible,835.5,27.0,68.0,6.17
+Maharashtra,PUNE,Other Summer Pulses,Summer,0.99,Multiple soil types,613.3,26.0,65.0,5.6
+Maharashtra,SOLAPUR,Other Summer Pulses,Summer,1.0,Coarse Soil,545.4,27.0,70.0,5.74
+Maharashtra,WASHIM,Other Summer Pulses,Summer,0.26,Coarse Soil,No data,27.0,68.0,6.93
+Maharashtra,YAVATMAL,Other Summer Pulses,Summer,0.23,Coarse Soil,No data,27.5,70.0,7.41
+Maharashtra,AHMEDNAGAR,Ragi,Kharif,1.15,Coarse Soil,567.2,26.0,70.0,6.52
+Maharashtra,AURANGABAD,Ragi,Kharif,1.04,Coarse Soil,715.4,26.5,72.0,6.72
+Maharashtra,BEED,Ragi,Kharif,1.05,Coarse Soil,691.0,26.0,69.0,6.59
+Maharashtra,BULDHANA,Ragi,Kharif,1.0,Coarse Soil,804.5,27.0,70.0,6.52
+Maharashtra,DHULE,Ragi,Kharif,0.65,Coarse Soil,585.8,27.0,66.0,6.67
+Maharashtra,KOLHAPUR,Ragi,Kharif,1.67,Laterite Soil,1655.3,26.5,73.0,5.3
+Maharashtra,NANDURBAR,Ragi,Kharif,0.58,Not clearly visible,835.5,27.0,68.0,7.1
+Maharashtra,NASHIK,Ragi,Kharif,0.64,Coarse Soil,578.8,26.5,70.0,6.91
+Maharashtra,OSMANABAD,Ragi,Kharif,1.0,Coarse Soil,No data,26.0,69.0,7.45
+Maharashtra,PALGHAR,Ragi,Kharif,0.77,Multiple soil types,No data,27.5,80.0,6.06
+Maharashtra,PUNE,Ragi,Kharif,0.72,Multiple soil types,613.3,26.0,65.0,6.68
+Maharashtra,RAIGAD,Ragi,Kharif,0.82,Laterite Soil,3414.2,27.0,75.0,4.66
+Maharashtra,RATNAGIRI,Ragi,Kharif,1.4,Laterite Soil,No data,27.0,74.0,5.54
+Maharashtra,SATARA,Ragi,Kharif,1.07,Multiple soil types,1376.2,26.5,68.0,6.05
+Maharashtra,SINDHUDURG,Ragi,Kharif,2.04,Laterite Soil,No data,28.0,80.0,5.4
+Maharashtra,SOLAPUR,Ragi,Kharif,0.84,Coarse Soil,545.4,27.0,70.0,5.75
+Maharashtra,THANE,Ragi,Kharif,0.72,Multiple soil types,2573.9,27.5,76.0,5.64
+Maharashtra,AHMEDNAGAR,Rapeseed &Mustard,Rabi,0.06,Coarse Soil,567.2,26.0,70.0,6.23
+Maharashtra,AMRAVATI,Rapeseed &Mustard,Rabi,0.4,Coarse Soil,890.9,27.0,68.0,6.15
+Maharashtra,AURANGABAD,Rapeseed &Mustard,Rabi,0.3,Coarse Soil,715.4,26.5,72.0,7.48
+Maharashtra,BEED,Rapeseed &Mustard,Rabi,0.3,Coarse Soil,691.0,26.0,69.0,5.62
+Maharashtra,BHANDARA,Rapeseed &Mustard,Rabi,1.0,Not clearly visible,1290.9,28.0,75.0,6.73
+Maharashtra,BULDHANA,Rapeseed &Mustard,Rabi,0.43,Coarse Soil,804.5,27.0,70.0,6.16
+Maharashtra,CHANDRAPUR,Rapeseed &Mustard,Rabi,0.35,Coarse Soil,1384.4,29.0,80.0,6.28
+Maharashtra,DHULE,Rapeseed &Mustard,Rabi,0.15,Coarse Soil,585.8,27.0,66.0,6.39
+Maharashtra,GADCHIROLI,Rapeseed &Mustard,Rabi,0.28,Not clearly visible,1455.2,28.0,78.0,5.68
+Maharashtra,GONDIA,Rapeseed &Mustard,Rabi,0.38,Not clearly visible,No data,28.0,76.0,5.65
+Maharashtra,JALNA,Rapeseed &Mustard,Rabi,0.13,Coarse Soil,No data,26.0,69.0,6.17
+Maharashtra,KOLHAPUR,Rapeseed &Mustard,Rabi,0.17,Laterite Soil,1655.3,26.5,73.0,5.26
+Maharashtra,LATUR,Rapeseed &Mustard,Rabi,0.33,Coarse Soil,No data,26.0,70.0,6.36
+Maharashtra,NAGPUR,Rapeseed &Mustard,Rabi,0.32,Coarse Soil,1129.5,28.5,77.0,7.2
+Maharashtra,NANDED,Rapeseed &Mustard,Rabi,0.22,Coarse Soil,No data,27.0,72.0,6.57
+Maharashtra,NANDURBAR,Rapeseed &Mustard,Rabi,0.24,Not clearly visible,835.5,27.0,68.0,6.09
+Maharashtra,NASHIK,Rapeseed &Mustard,Rabi,0.19,Coarse Soil,578.8,26.5,70.0,6.62
+Maharashtra,OSMANABAD,Rapeseed &Mustard,Rabi,0.31,Coarse Soil,No data,26.0,69.0,5.85
+Maharashtra,PALGHAR,Rapeseed &Mustard,Rabi,0.6,Multiple soil types,No data,27.5,80.0,6.69
+Maharashtra,PARBHANI,Rapeseed &Mustard,Rabi,0.16,Coarse Soil,No data,27.0,68.0,6.48
+Maharashtra,PUNE,Rapeseed &Mustard,Rabi,0.16,Multiple soil types,613.3,26.0,65.0,6.86
+Maharashtra,RAIGAD,Rapeseed &Mustard,Rabi,0.65,Laterite Soil,3414.2,27.0,75.0,4.59
+Maharashtra,RATNAGIRI,Rapeseed &Mustard,Rabi,0.65,Laterite Soil,No data,27.0,74.0,4.79
+Maharashtra,SANGLI,Rapeseed &Mustard,Rabi,0.0,Coarse Soil,614.3,26.5,70.0,6.53
+Maharashtra,SATARA,Rapeseed &Mustard,Rabi,0.17,Multiple soil types,1376.2,26.5,68.0,5.94
+Maharashtra,SINDHUDURG,Rapeseed &Mustard,Rabi,0.57,Laterite Soil,No data,28.0,80.0,4.87
+Maharashtra,SOLAPUR,Rapeseed &Mustard,Rabi,0.18,Coarse Soil,545.4,27.0,70.0,7.4
+Maharashtra,THANE,Rapeseed &Mustard,Rabi,0.43,Multiple soil types,2573.9,27.5,76.0,6.95
+Maharashtra,WASHIM,Rapeseed &Mustard,Rabi,0.17,Coarse Soil,No data,27.0,68.0,6.2
+Maharashtra,YAVATMAL,Rapeseed &Mustard,Rabi,0.4,Coarse Soil,No data,27.5,70.0,6.71
+Maharashtra,AHMEDNAGAR,Rice,Kharif,1.12,Coarse Soil,567.2,26.0,70.0,5.71
+Maharashtra,AMRAVATI,Rice,Kharif,0.19,Coarse Soil,890.9,27.0,68.0,5.99
+Maharashtra,AURANGABAD,Rice,Kharif,0.2,Coarse Soil,715.4,26.5,72.0,5.54
+Maharashtra,BEED,Rice,Kharif,0.13,Coarse Soil,691.0,26.0,69.0,6.16
+Maharashtra,BHANDARA,Rice,Kharif,1.62,Not clearly visible,1290.9,28.0,75.0,6.26
+Maharashtra,BHANDARA,Rice,Summer,2.68,Not clearly visible,1290.9,28.0,75.0,6.02
+Maharashtra,CHANDRAPUR,Rice,Kharif,1.4,Coarse Soil,1384.4,29.0,80.0,5.64
+Maharashtra,CHANDRAPUR,Rice,Summer,2.49,Coarse Soil,1384.4,29.0,80.0,6.22
+Maharashtra,DHULE,Rice,Kharif,1.42,Coarse Soil,585.8,27.0,66.0,6.21
+Maharashtra,GADCHIROLI,Rice,Kharif,1.7,Not clearly visible,1455.2,28.0,78.0,6.08
+Maharashtra,GADCHIROLI,Rice,Summer,2.32,Not clearly visible,1455.2,28.0,78.0,6.85
+Maharashtra,GONDIA,Rice,Kharif,1.99,Not clearly visible,No data,28.0,76.0,5.75
+Maharashtra,GONDIA,Rice,Summer,2.61,Not clearly visible,No data,28.0,76.0,5.75
+Maharashtra,JALNA,Rice,Kharif,0.18,Coarse Soil,No data,26.0,69.0,7.46
+Maharashtra,KOLHAPUR,Rice,Kharif,2.43,Laterite Soil,1655.3,26.5,73.0,4.51
+Maharashtra,KOLHAPUR,Rice,Summer,3.4,Laterite Soil,1655.3,26.5,73.0,5.8
+Maharashtra,LATUR,Rice,Kharif,0.08,Coarse Soil,No data,26.0,70.0,6.35
+Maharashtra,NAGPUR,Rice,Kharif,1.57,Coarse Soil,1129.5,28.5,77.0,6.06
+Maharashtra,NAGPUR,Rice,Summer,2.27,Coarse Soil,1129.5,28.5,77.0,6.44
+Maharashtra,NANDED,Rice,Kharif,0.69,Coarse Soil,No data,27.0,72.0,6.14
+Maharashtra,NANDED,Rice,Summer,2.58,Coarse Soil,No data,27.0,72.0,6.49
+Maharashtra,NANDURBAR,Rice,Kharif,1.6,Not clearly visible,835.5,27.0,68.0,7.33
+Maharashtra,NASHIK,Rice,Kharif,1.19,Coarse Soil,578.8,26.5,70.0,6.66
+Maharashtra,OSMANABAD,Rice,Kharif,0.11,Coarse Soil,No data,26.0,69.0,5.64
+Maharashtra,PALGHAR,Rice,Kharif,1.78,Multiple soil types,No data,27.5,80.0,6.57
+Maharashtra,PALGHAR,Rice,Summer,2.64,Multiple soil types,No data,27.5,80.0,5.53
+Maharashtra,PARBHANI,Rice,Kharif,0.1,Coarse Soil,No data,27.0,68.0,5.58
+Maharashtra,PUNE,Rice,Kharif,1.81,Multiple soil types,613.3,26.0,65.0,6.93
+Maharashtra,RAIGAD,Rice,Kharif,1.93,Laterite Soil,3414.2,27.0,75.0,4.66
+Maharashtra,RAIGAD,Rice,Summer,3.34,Laterite Soil,3414.2,27.0,75.0,5.43
+Maharashtra,RATNAGIRI,Rice,Kharif,3.16,Laterite Soil,No data,27.0,74.0,4.82
+Maharashtra,RATNAGIRI,Rice,Summer,2.0,Laterite Soil,No data,27.0,74.0,5.03
+Maharashtra,SANGLI,Rice,Kharif,1.27,Coarse Soil,614.3,26.5,70.0,5.56
+Maharashtra,SATARA,Rice,Kharif,1.44,Multiple soil types,1376.2,26.5,68.0,6.11
+Maharashtra,SINDHUDURG,Rice,Kharif,2.5,Laterite Soil,No data,28.0,80.0,5.77
+Maharashtra,SINDHUDURG,Rice,Summer,2.49,Laterite Soil,No data,28.0,80.0,4.53
+Maharashtra,SOLAPUR,Rice,Kharif,0.16,Coarse Soil,545.4,27.0,70.0,6.09
+Maharashtra,THANE,Rice,Kharif,2.15,Multiple soil types,2573.9,27.5,76.0,6.55
+Maharashtra,THANE,Rice,Summer,3.11,Multiple soil types,2573.9,27.5,76.0,6.39
+Maharashtra,AKOLA,Safflower,Rabi,0.36,Coarse Soil,779.5,27.5,65.0,6.83
+Maharashtra,AMRAVATI,Safflower,Rabi,0.67,Coarse Soil,890.9,27.0,68.0,5.82
+Maharashtra,AURANGABAD,Safflower,Rabi,0.42,Coarse Soil,715.4,26.5,72.0,6.39
+Maharashtra,BEED,Safflower,Rabi,0.54,Coarse Soil,691.0,26.0,69.0,7.12
+Maharashtra,BULDHANA,Safflower,Rabi,1.05,Coarse Soil,804.5,27.0,70.0,6.99
+Maharashtra,HINGOLI,Safflower,Rabi,0.6,Coarse Soil,No data,26.5,71.0,5.65
+Maharashtra,JALNA,Safflower,Rabi,0.3,Coarse Soil,No data,26.0,69.0,6.73
+Maharashtra,LATUR,Safflower,Rabi,1.09,Coarse Soil,No data,26.0,70.0,5.96
+Maharashtra,NANDED,Safflower,Rabi,0.4,Coarse Soil,No data,27.0,72.0,6.47
+Maharashtra,NANDURBAR,Safflower,Rabi,0.38,Not clearly visible,835.5,27.0,68.0,6.48
+Maharashtra,OSMANABAD,Safflower,Rabi,0.58,Coarse Soil,No data,26.0,69.0,6.29
+Maharashtra,PARBHANI,Safflower,Rabi,0.46,Coarse Soil,No data,27.0,68.0,7.17
+Maharashtra,PUNE,Safflower,Rabi,0.8,Multiple soil types,613.3,26.0,65.0,6.69
+Maharashtra,SANGLI,Safflower,Rabi,0.27,Coarse Soil,614.3,26.5,70.0,7.26
+Maharashtra,SATARA,Safflower,Rabi,0.47,Multiple soil types,1376.2,26.5,68.0,5.97
+Maharashtra,SOLAPUR,Safflower,Rabi,0.5,Coarse Soil,545.4,27.0,70.0,6.7
+Maharashtra,WASHIM,Safflower,Rabi,0.46,Coarse Soil,No data,27.0,68.0,5.82
+Maharashtra,YAVATMAL,Safflower,Rabi,0.4,Coarse Soil,No data,27.5,70.0,7.19
+Maharashtra,AHMEDNAGAR,Sesamum,Kharif,0.13,Coarse Soil,567.2,26.0,70.0,6.01
+Maharashtra,AHMEDNAGAR,Sesamum,Rabi,0.22,Coarse Soil,567.2,26.0,70.0,5.85
+Maharashtra,AHMEDNAGAR,Sesamum,Summer,0.33,Coarse Soil,567.2,26.0,70.0,5.85
+Maharashtra,AKOLA,Sesamum,Kharif,0.03,Coarse Soil,779.5,27.5,65.0,6.93
+Maharashtra,AKOLA,Sesamum,Summer,0.21,Coarse Soil,779.5,27.5,65.0,7.15
+Maharashtra,AMRAVATI,Sesamum,Kharif,0.15,Coarse Soil,890.9,27.0,68.0,7.15
+Maharashtra,AMRAVATI,Sesamum,Summer,0.21,Coarse Soil,890.9,27.0,68.0,7.36
+Maharashtra,AURANGABAD,Sesamum,Kharif,0.23,Coarse Soil,715.4,26.5,72.0,5.77
+Maharashtra,AURANGABAD,Sesamum,Rabi,0.47,Coarse Soil,715.4,26.5,72.0,7.17
+Maharashtra,BEED,Sesamum,Kharif,0.1,Coarse Soil,691.0,26.0,69.0,6.43
+Maharashtra,BEED,Sesamum,Summer,0.23,Coarse Soil,691.0,26.0,69.0,6.55
+Maharashtra,BHANDARA,Sesamum,Kharif,0.3,Not clearly visible,1290.9,28.0,75.0,6.3
+Maharashtra,BHANDARA,Sesamum,Rabi,0.0,Not clearly visible,1290.9,28.0,75.0,6.36
+Maharashtra,BULDHANA,Sesamum,Kharif,0.09,Coarse Soil,804.5,27.0,70.0,6.18
+Maharashtra,CHANDRAPUR,Sesamum,Kharif,0.45,Coarse Soil,1384.4,29.0,80.0,5.89
+Maharashtra,CHANDRAPUR,Sesamum,Rabi,0.44,Coarse Soil,1384.4,29.0,80.0,6.63
+Maharashtra,DHULE,Sesamum,Kharif,0.12,Coarse Soil,585.8,27.0,66.0,6.52
+Maharashtra,GADCHIROLI,Sesamum,Kharif,0.12,Not clearly visible,1455.2,28.0,78.0,7.23
+Maharashtra,GADCHIROLI,Sesamum,Rabi,0.31,Not clearly visible,1455.2,28.0,78.0,6.12
+Maharashtra,GONDIA,Sesamum,Kharif,0.13,Not clearly visible,No data,28.0,76.0,6.16
+Maharashtra,GONDIA,Sesamum,Rabi,0.0,Not clearly visible,No data,28.0,76.0,5.93
+Maharashtra,HINGOLI,Sesamum,Kharif,0.0,Coarse Soil,No data,26.5,71.0,5.93
+Maharashtra,HINGOLI,Sesamum,Summer,0.17,Coarse Soil,No data,26.5,71.0,6.3
+Maharashtra,JALGAON,Sesamum,Kharif,0.32,Coarse Soil,734.0,26.0,67.0,6.27
+Maharashtra,JALGAON,Sesamum,Rabi,0.27,Coarse Soil,734.0,26.0,67.0,5.86
+Maharashtra,JALGAON,Sesamum,Summer,0.36,Coarse Soil,734.0,26.0,67.0,6.68
+Maharashtra,JALNA,Sesamum,Kharif,0.09,Coarse Soil,No data,26.0,69.0,7.36
+Maharashtra,JALNA,Sesamum,Summer,0.0,Coarse Soil,No data,26.0,69.0,6.21
+Maharashtra,KOLHAPUR,Sesamum,Kharif,0.13,Laterite Soil,1655.3,26.5,73.0,5.37
+Maharashtra,LATUR,Sesamum,Kharif,0.21,Coarse Soil,No data,26.0,70.0,5.55
+Maharashtra,NAGPUR,Sesamum,Kharif,0.2,Coarse Soil,1129.5,28.5,77.0,7.04
+Maharashtra,NAGPUR,Sesamum,Summer,0.31,Coarse Soil,1129.5,28.5,77.0,5.97
+Maharashtra,NANDED,Sesamum,Kharif,0.15,Coarse Soil,No data,27.0,72.0,6.55
+Maharashtra,NANDED,Sesamum,Rabi,0.29,Coarse Soil,No data,27.0,72.0,6.94
+Maharashtra,NANDED,Sesamum,Summer,0.0,Coarse Soil,No data,27.0,72.0,6.31
+Maharashtra,NANDURBAR,Sesamum,Kharif,0.33,Not clearly visible,835.5,27.0,68.0,6.38
+Maharashtra,NANDURBAR,Sesamum,Rabi,0.39,Not clearly visible,835.5,27.0,68.0,6.36
+Maharashtra,NASHIK,Sesamum,Kharif,0.14,Coarse Soil,578.8,26.5,70.0,6.87
+Maharashtra,OSMANABAD,Sesamum,Kharif,0.22,Coarse Soil,No data,26.0,69.0,7.24
+Maharashtra,OSMANABAD,Sesamum,Summer,0.2,Coarse Soil,No data,26.0,69.0,6.08
+Maharashtra,PALGHAR,Sesamum,Rabi,0.38,Multiple soil types,No data,27.5,80.0,5.76
+Maharashtra,PARBHANI,Sesamum,Kharif,0.21,Coarse Soil,No data,27.0,68.0,5.51
+Maharashtra,PARBHANI,Sesamum,Rabi,0.34,Coarse Soil,No data,27.0,68.0,6.25
+Maharashtra,PARBHANI,Sesamum,Summer,0.19,Coarse Soil,No data,27.0,68.0,6.77
+Maharashtra,PUNE,Sesamum,Kharif,0.22,Multiple soil types,613.3,26.0,65.0,5.92
+Maharashtra,PUNE,Sesamum,Rabi,0.27,Multiple soil types,613.3,26.0,65.0,6.62
+Maharashtra,PUNE,Sesamum,Summer,0.0,Multiple soil types,613.3,26.0,65.0,6.77
+Maharashtra,RATNAGIRI,Sesamum,Kharif,0.38,Laterite Soil,No data,27.0,74.0,5.42
+Maharashtra,SATARA,Sesamum,Kharif,0.21,Multiple soil types,1376.2,26.5,68.0,5.99
+Maharashtra,SINDHUDURG,Sesamum,Rabi,0.39,Laterite Soil,No data,28.0,80.0,5.84
+Maharashtra,SOLAPUR,Sesamum,Kharif,0.09,Coarse Soil,545.4,27.0,70.0,7.02
+Maharashtra,SOLAPUR,Sesamum,Rabi,0.35,Coarse Soil,545.4,27.0,70.0,5.69
+Maharashtra,WARDHA,Sesamum,Kharif,0.18,Coarse Soil,No data,28.5,78.0,5.81
+Maharashtra,WASHIM,Sesamum,Kharif,0.37,Coarse Soil,No data,27.0,68.0,6.39
+Maharashtra,WASHIM,Sesamum,Summer,0.21,Coarse Soil,No data,27.0,68.0,6.65
+Maharashtra,YAVATMAL,Sesamum,Kharif,0.04,Coarse Soil,No data,27.5,70.0,7.1
+Maharashtra,YAVATMAL,Sesamum,Rabi,0.27,Coarse Soil,No data,27.5,70.0,5.92
+Maharashtra,YAVATMAL,Sesamum,Summer,0.2,Coarse Soil,No data,27.5,70.0,6.9
+Maharashtra,AHMEDNAGAR,Soyabean,Kharif,0.57,Coarse Soil,567.2,26.0,70.0,6.49
+Maharashtra,AKOLA,Soyabean,Kharif,0.91,Coarse Soil,779.5,27.5,65.0,7.27
+Maharashtra,AMRAVATI,Soyabean,Kharif,0.83,Coarse Soil,890.9,27.0,68.0,5.9
+Maharashtra,AURANGABAD,Soyabean,Kharif,0.82,Coarse Soil,715.4,26.5,72.0,6.76
+Maharashtra,BEED,Soyabean,Kharif,0.78,Coarse Soil,691.0,26.0,69.0,6.1
+Maharashtra,BHANDARA,Soyabean,Kharif,1.04,Not clearly visible,1290.9,28.0,75.0,5.72
+Maharashtra,BULDHANA,Soyabean,Kharif,1.35,Coarse Soil,804.5,27.0,70.0,7.03
+Maharashtra,CHANDRAPUR,Soyabean,Kharif,0.88,Coarse Soil,1384.4,29.0,80.0,7.38
+Maharashtra,DHULE,Soyabean,Kharif,0.77,Coarse Soil,585.8,27.0,66.0,5.96
+Maharashtra,GADCHIROLI,Soyabean,Kharif,2.3,Not clearly visible,1455.2,28.0,78.0,5.55
+Maharashtra,HINGOLI,Soyabean,Kharif,1.98,Coarse Soil,No data,26.5,71.0,5.56
+Maharashtra,JALGAON,Soyabean,Kharif,0.55,Coarse Soil,734.0,26.0,67.0,7.3
+Maharashtra,JALNA,Soyabean,Kharif,1.71,Coarse Soil,No data,26.0,69.0,7.28
+Maharashtra,KOLHAPUR,Soyabean,Kharif,2.0,Laterite Soil,1655.3,26.5,73.0,5.19
+Maharashtra,LATUR,Soyabean,Kharif,1.1,Coarse Soil,No data,26.0,70.0,7.16
+Maharashtra,NAGPUR,Soyabean,Kharif,1.67,Coarse Soil,1129.5,28.5,77.0,6.6
+Maharashtra,NANDED,Soyabean,Kharif,1.36,Coarse Soil,No data,27.0,72.0,6.56
+Maharashtra,NANDURBAR,Soyabean,Kharif,1.46,Not clearly visible,835.5,27.0,68.0,6.35
+Maharashtra,NASHIK,Soyabean,Kharif,1.01,Coarse Soil,578.8,26.5,70.0,5.67
+Maharashtra,OSMANABAD,Soyabean,Kharif,1.21,Coarse Soil,No data,26.0,69.0,6.49
+Maharashtra,PARBHANI,Soyabean,Kharif,1.03,Coarse Soil,No data,27.0,68.0,6.56
+Maharashtra,PUNE,Soyabean,Kharif,0.81,Multiple soil types,613.3,26.0,65.0,6.88
+Maharashtra,SANGLI,Soyabean,Kharif,0.86,Coarse Soil,614.3,26.5,70.0,7.28
+Maharashtra,SATARA,Soyabean,Kharif,1.44,Multiple soil types,1376.2,26.5,68.0,6.62
+Maharashtra,SOLAPUR,Soyabean,Kharif,0.64,Coarse Soil,545.4,27.0,70.0,5.99
+Maharashtra,WARDHA,Soyabean,Kharif,1.3,Coarse Soil,No data,28.5,78.0,5.99
+Maharashtra,WASHIM,Soyabean,Kharif,1.09,Coarse Soil,No data,27.0,68.0,6.16
+Maharashtra,YAVATMAL,Soyabean,Kharif,0.82,Coarse Soil,No data,27.5,70.0,6.85
+Maharashtra,AHMEDNAGAR,Sugarcane,Whole Year,71.95,Coarse Soil,567.2,26.0,70.0,6.12
+Maharashtra,AKOLA,Sugarcane,Whole Year,64.0,Coarse Soil,779.5,27.5,65.0,5.79
+Maharashtra,AMRAVATI,Sugarcane,Whole Year,34.53,Coarse Soil,890.9,27.0,68.0,7.3
+Maharashtra,AURANGABAD,Sugarcane,Whole Year,55.72,Coarse Soil,715.4,26.5,72.0,7.05
+Maharashtra,BEED,Sugarcane,Whole Year,54.63,Coarse Soil,691.0,26.0,69.0,6.85
+Maharashtra,BHANDARA,Sugarcane,Whole Year,68.84,Not clearly visible,1290.9,28.0,75.0,5.51
+Maharashtra,BULDHANA,Sugarcane,Whole Year,69.85,Coarse Soil,804.5,27.0,70.0,7.07
+Maharashtra,GADCHIROLI,Sugarcane,Whole Year,67.79,Not clearly visible,1455.2,28.0,78.0,7.17
+Maharashtra,GONDIA,Sugarcane,Whole Year,74.6,Not clearly visible,No data,28.0,76.0,7.21
+Maharashtra,HINGOLI,Sugarcane,Whole Year,65.53,Coarse Soil,No data,26.5,71.0,6.29
+Maharashtra,JALGAON,Sugarcane,Whole Year,69.16,Coarse Soil,734.0,26.0,67.0,7.19
+Maharashtra,JALNA,Sugarcane,Whole Year,56.29,Coarse Soil,No data,26.0,69.0,7.09
+Maharashtra,KOLHAPUR,Sugarcane,Whole Year,81.03,Laterite Soil,1655.3,26.5,73.0,5.65
+Maharashtra,LATUR,Sugarcane,Whole Year,68.3,Coarse Soil,No data,26.0,70.0,5.54
+Maharashtra,NAGPUR,Sugarcane,Whole Year,56.78,Coarse Soil,1129.5,28.5,77.0,6.84
+Maharashtra,NANDED,Sugarcane,Whole Year,65.54,Coarse Soil,No data,27.0,72.0,5.65
+Maharashtra,NANDURBAR,Sugarcane,Whole Year,77.4,Not clearly visible,835.5,27.0,68.0,6.75
+Maharashtra,NASHIK,Sugarcane,Whole Year,80.22,Coarse Soil,578.8,26.5,70.0,6.16
+Maharashtra,OSMANABAD,Sugarcane,Whole Year,54.05,Coarse Soil,No data,26.0,69.0,6.22
+Maharashtra,PARBHANI,Sugarcane,Whole Year,65.53,Coarse Soil,No data,27.0,68.0,6.08
+Maharashtra,PUNE,Sugarcane,Whole Year,103.26,Multiple soil types,613.3,26.0,65.0,6.13
+Maharashtra,SANGLI,Sugarcane,Whole Year,100.05,Coarse Soil,614.3,26.5,70.0,6.65
+Maharashtra,SATARA,Sugarcane,Whole Year,106.87,Multiple soil types,1376.2,26.5,68.0,6.12
+Maharashtra,SOLAPUR,Sugarcane,Whole Year,91.53,Coarse Soil,545.4,27.0,70.0,6.93
+Maharashtra,WARDHA,Sugarcane,Whole Year,64.63,Coarse Soil,No data,28.5,78.0,5.63
+Maharashtra,WASHIM,Sugarcane,Whole Year,42.2,Coarse Soil,No data,27.0,68.0,6.58
+Maharashtra,YAVATMAL,Sugarcane,Whole Year,69.5,Coarse Soil,No data,27.5,70.0,6.21
+Maharashtra,AHMEDNAGAR,Sunflower,Kharif,1.26,Coarse Soil,567.2,26.0,70.0,7.34
+Maharashtra,AHMEDNAGAR,Sunflower,Rabi,0.31,Coarse Soil,567.2,26.0,70.0,6.91
+Maharashtra,AKOLA,Sunflower,Kharif,0.42,Coarse Soil,779.5,27.5,65.0,7.24
+Maharashtra,AMRAVATI,Sunflower,Kharif,0.33,Coarse Soil,890.9,27.0,68.0,7.24
+Maharashtra,AMRAVATI,Sunflower,Summer,0.67,Coarse Soil,890.9,27.0,68.0,5.95
+Maharashtra,AURANGABAD,Sunflower,Kharif,0.35,Coarse Soil,715.4,26.5,72.0,7.37
+Maharashtra,BEED,Sunflower,Kharif,0.38,Coarse Soil,691.0,26.0,69.0,5.67
+Maharashtra,BEED,Sunflower,Summer,0.6,Coarse Soil,691.0,26.0,69.0,6.09
+Maharashtra,BHANDARA,Sunflower,Kharif,0.0,Not clearly visible,1290.9,28.0,75.0,6.84
+Maharashtra,BULDHANA,Sunflower,Kharif,0.47,Coarse Soil,804.5,27.0,70.0,7.24
+Maharashtra,BULDHANA,Sunflower,Rabi,0.47,Coarse Soil,804.5,27.0,70.0,6.56
+Maharashtra,BULDHANA,Sunflower,Summer,0.55,Coarse Soil,804.5,27.0,70.0,7.01
+Maharashtra,DHULE,Sunflower,Kharif,0.33,Coarse Soil,585.8,27.0,66.0,5.87
+Maharashtra,HINGOLI,Sunflower,Kharif,0.5,Coarse Soil,No data,26.5,71.0,7.18
+Maharashtra,JALGAON,Sunflower,Rabi,0.47,Coarse Soil,734.0,26.0,67.0,5.53
+Maharashtra,JALNA,Sunflower,Kharif,0.27,Coarse Soil,No data,26.0,69.0,6.06
+Maharashtra,JALNA,Sunflower,Rabi,0.57,Coarse Soil,No data,26.0,69.0,6.14
+Maharashtra,KOLHAPUR,Sunflower,Kharif,0.0,Laterite Soil,1655.3,26.5,73.0,5.73
+Maharashtra,KOLHAPUR,Sunflower,Rabi,0.57,Laterite Soil,1655.3,26.5,73.0,5.63
+Maharashtra,KOLHAPUR,Sunflower,Summer,1.4,Laterite Soil,1655.3,26.5,73.0,5.31
+Maharashtra,LATUR,Sunflower,Kharif,0.41,Coarse Soil,No data,26.0,70.0,6.1
+Maharashtra,LATUR,Sunflower,Rabi,0.71,Coarse Soil,No data,26.0,70.0,7.37
+Maharashtra,LATUR,Sunflower,Summer,0.5,Coarse Soil,No data,26.0,70.0,6.92
+Maharashtra,NANDED,Sunflower,Kharif,0.29,Coarse Soil,No data,27.0,72.0,6.45
+Maharashtra,NANDED,Sunflower,Rabi,0.68,Coarse Soil,No data,27.0,72.0,5.98
+Maharashtra,NANDED,Sunflower,Summer,1.06,Coarse Soil,No data,27.0,72.0,6.83
+Maharashtra,NANDURBAR,Sunflower,Kharif,0.79,Not clearly visible,835.5,27.0,68.0,6.33
+Maharashtra,NANDURBAR,Sunflower,Rabi,0.4,Not clearly visible,835.5,27.0,68.0,7.29
+Maharashtra,NANDURBAR,Sunflower,Summer,0.92,Not clearly visible,835.5,27.0,68.0,6.99
+Maharashtra,NASHIK,Sunflower,Kharif,0.15,Coarse Soil,578.8,26.5,70.0,6.43
+Maharashtra,OSMANABAD,Sunflower,Kharif,0.29,Coarse Soil,No data,26.0,69.0,6.39
+Maharashtra,OSMANABAD,Sunflower,Rabi,0.35,Coarse Soil,No data,26.0,69.0,6.67
+Maharashtra,OSMANABAD,Sunflower,Summer,0.33,Coarse Soil,No data,26.0,69.0,6.29
+Maharashtra,PARBHANI,Sunflower,Kharif,0.11,Coarse Soil,No data,27.0,68.0,6.05
+Maharashtra,PARBHANI,Sunflower,Rabi,0.48,Coarse Soil,No data,27.0,68.0,6.91
+Maharashtra,PUNE,Sunflower,Kharif,0.25,Multiple soil types,613.3,26.0,65.0,6.47
+Maharashtra,PUNE,Sunflower,Rabi,0.42,Multiple soil types,613.3,26.0,65.0,6.06
+Maharashtra,RATNAGIRI,Sunflower,Rabi,0.29,Laterite Soil,No data,27.0,74.0,5.77
+Maharashtra,SANGLI,Sunflower,Kharif,0.2,Coarse Soil,614.3,26.5,70.0,6.15
+Maharashtra,SANGLI,Sunflower,Rabi,0.75,Coarse Soil,614.3,26.5,70.0,7.1
+Maharashtra,SATARA,Sunflower,Kharif,0.48,Multiple soil types,1376.2,26.5,68.0,6.85
+Maharashtra,SATARA,Sunflower,Rabi,0.47,Multiple soil types,1376.2,26.5,68.0,6.38
+Maharashtra,SOLAPUR,Sunflower,Kharif,0.35,Coarse Soil,545.4,27.0,70.0,5.63
+Maharashtra,SOLAPUR,Sunflower,Rabi,0.55,Coarse Soil,545.4,27.0,70.0,7.11
+Maharashtra,SOLAPUR,Sunflower,Summer,0.56,Coarse Soil,545.4,27.0,70.0,5.53
+Maharashtra,WASHIM,Sunflower,Kharif,0.0,Coarse Soil,No data,27.0,68.0,6.23
+Maharashtra,WASHIM,Sunflower,Summer,2.2,Coarse Soil,No data,27.0,68.0,6.03
+Maharashtra,KOLHAPUR,Tobacco,Whole Year,1.82,Laterite Soil,1655.3,26.5,73.0,4.98
+Maharashtra,AHMEDNAGAR,Urad,Kharif,0.22,Coarse Soil,567.2,26.0,70.0,5.57
+Maharashtra,AKOLA,Urad,Kharif,0.36,Coarse Soil,779.5,27.5,65.0,6.17
+Maharashtra,AMRAVATI,Urad,Kharif,0.18,Coarse Soil,890.9,27.0,68.0,5.92
+Maharashtra,AURANGABAD,Urad,Kharif,0.56,Coarse Soil,715.4,26.5,72.0,6.26
+Maharashtra,BEED,Urad,Kharif,0.22,Coarse Soil,691.0,26.0,69.0,7.16
+Maharashtra,BHANDARA,Urad,Kharif,0.28,Not clearly visible,1290.9,28.0,75.0,6.43
+Maharashtra,BULDHANA,Urad,Kharif,0.67,Coarse Soil,804.5,27.0,70.0,7.29
+Maharashtra,CHANDRAPUR,Urad,Kharif,0.34,Coarse Soil,1384.4,29.0,80.0,6.25
+Maharashtra,DHULE,Urad,Kharif,0.39,Coarse Soil,585.8,27.0,66.0,6.51
+Maharashtra,GADCHIROLI,Urad,Kharif,0.25,Not clearly visible,1455.2,28.0,78.0,6.44
+Maharashtra,GONDIA,Urad,Kharif,0.5,Not clearly visible,No data,28.0,76.0,6.05
+Maharashtra,HINGOLI,Urad,Kharif,0.67,Coarse Soil,No data,26.5,71.0,6.47
+Maharashtra,JALGAON,Urad,Kharif,0.62,Coarse Soil,734.0,26.0,67.0,6.21
+Maharashtra,JALNA,Urad,Kharif,0.8,Coarse Soil,No data,26.0,69.0,6.94
+Maharashtra,KOLHAPUR,Urad,Kharif,0.84,Laterite Soil,1655.3,26.5,73.0,5.21
+Maharashtra,LATUR,Urad,Kharif,0.57,Coarse Soil,No data,26.0,70.0,7.37
+Maharashtra,NAGPUR,Urad,Kharif,0.45,Coarse Soil,1129.5,28.5,77.0,5.91
+Maharashtra,NANDED,Urad,Kharif,0.67,Coarse Soil,No data,27.0,72.0,5.95
+Maharashtra,NANDURBAR,Urad,Kharif,0.5,Not clearly visible,835.5,27.0,68.0,6.37
+Maharashtra,NASHIK,Urad,Kharif,0.5,Coarse Soil,578.8,26.5,70.0,7.47
+Maharashtra,OSMANABAD,Urad,Kharif,0.32,Coarse Soil,No data,26.0,69.0,6.6
+Maharashtra,PALGHAR,Urad,Kharif,0.37,Multiple soil types,No data,27.5,80.0,5.51
+Maharashtra,PARBHANI,Urad,Kharif,0.36,Coarse Soil,No data,27.0,68.0,6.11
+Maharashtra,PUNE,Urad,Kharif,0.65,Multiple soil types,613.3,26.0,65.0,5.82
+Maharashtra,SANGLI,Urad,Kharif,0.32,Coarse Soil,614.3,26.5,70.0,6.66
+Maharashtra,SATARA,Urad,Kharif,0.36,Multiple soil types,1376.2,26.5,68.0,6.82
+Maharashtra,SINDHUDURG,Urad,Kharif,0.5,Laterite Soil,No data,28.0,80.0,5.8
+Maharashtra,SOLAPUR,Urad,Kharif,0.36,Coarse Soil,545.4,27.0,70.0,6.34
+Maharashtra,THANE,Urad,Kharif,0.83,Multiple soil types,2573.9,27.5,76.0,5.75
+Maharashtra,WARDHA,Urad,Kharif,0.11,Coarse Soil,No data,28.5,78.0,5.99
+Maharashtra,WASHIM,Urad,Kharif,0.47,Coarse Soil,No data,27.0,68.0,5.68
+Maharashtra,YAVATMAL,Urad,Kharif,0.36,Coarse Soil,No data,27.5,70.0,7.09
+Maharashtra,AHMEDNAGAR,Wheat,Rabi,2.1,Coarse Soil,567.2,26.0,70.0,5.82
+Maharashtra,AKOLA,Wheat,Rabi,1.29,Coarse Soil,779.5,27.5,65.0,6.9
+Maharashtra,AMRAVATI,Wheat,Rabi,1.74,Coarse Soil,890.9,27.0,68.0,7.24
+Maharashtra,AURANGABAD,Wheat,Rabi,2.11,Coarse Soil,715.4,26.5,72.0,6.84
+Maharashtra,BEED,Wheat,Rabi,1.29,Coarse Soil,691.0,26.0,69.0,6.82
+Maharashtra,BHANDARA,Wheat,Rabi,1.21,Not clearly visible,1290.9,28.0,75.0,6.05
+Maharashtra,BULDHANA,Wheat,Rabi,1.86,Coarse Soil,804.5,27.0,70.0,7.09
+Maharashtra,CHANDRAPUR,Wheat,Rabi,0.72,Coarse Soil,1384.4,29.0,80.0,6.84
+Maharashtra,DHULE,Wheat,Rabi,2.47,Coarse Soil,585.8,27.0,66.0,5.53
+Maharashtra,GADCHIROLI,Wheat,Rabi,0.72,Not clearly visible,1455.2,28.0,78.0,6.17
+Maharashtra,GONDIA,Wheat,Rabi,0.56,Not clearly visible,No data,28.0,76.0,6.39
+Maharashtra,HINGOLI,Wheat,Rabi,0.79,Coarse Soil,No data,26.5,71.0,7.26
+Maharashtra,JALGAON,Wheat,Rabi,2.47,Coarse Soil,734.0,26.0,67.0,6.98
+Maharashtra,JALNA,Wheat,Rabi,1.6,Coarse Soil,No data,26.0,69.0,7.14
+Maharashtra,KOLHAPUR,Wheat,Rabi,2.35,Laterite Soil,1655.3,26.5,73.0,5.29
+Maharashtra,LATUR,Wheat,Rabi,0.65,Coarse Soil,No data,26.0,70.0,7.23
+Maharashtra,NAGPUR,Wheat,Rabi,1.41,Coarse Soil,1129.5,28.5,77.0,6.85
+Maharashtra,NANDED,Wheat,Rabi,0.91,Coarse Soil,No data,27.0,72.0,6.36
+Maharashtra,NANDURBAR,Wheat,Rabi,2.85,Not clearly visible,835.5,27.0,68.0,5.56
+Maharashtra,NASHIK,Wheat,Rabi,2.55,Coarse Soil,578.8,26.5,70.0,5.85
+Maharashtra,OSMANABAD,Wheat,Rabi,0.56,Coarse Soil,No data,26.0,69.0,7.26
+Maharashtra,PALGHAR,Wheat,Rabi,2.9,Multiple soil types,No data,27.5,80.0,6.18
+Maharashtra,PARBHANI,Wheat,Rabi,1.03,Coarse Soil,No data,27.0,68.0,7.08
+Maharashtra,PUNE,Wheat,Rabi,2.07,Multiple soil types,613.3,26.0,65.0,5.78
+Maharashtra,SANGLI,Wheat,Rabi,1.71,Coarse Soil,614.3,26.5,70.0,6.27
+Maharashtra,SATARA,Wheat,Rabi,1.97,Multiple soil types,1376.2,26.5,68.0,6.63
+Maharashtra,SOLAPUR,Wheat,Rabi,1.13,Coarse Soil,545.4,27.0,70.0,6.65
+Maharashtra,WARDHA,Wheat,Rabi,1.38,Coarse Soil,No data,28.5,78.0,7.16
+Maharashtra,WASHIM,Wheat,Rabi,1.31,Coarse Soil,No data,27.0,68.0,5.51
+Maharashtra,YAVATMAL,Wheat,Rabi,1.21,Coarse Soil,No data,27.5,70.0,5.51
