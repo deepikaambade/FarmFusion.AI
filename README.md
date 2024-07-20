@@ -1,7 +1,7 @@
 # FarmFusion.AI
 
 FarmFusion is an innovative agricultural technology platform that combines multiple AI and machine learning models to provide comprehensive support for farmers and agricultural professionals.
-Access FarmFusion here https://farmfusionai-9670.chipp.ai , 
+Access FarmFusion here https://farmfusionai-9670.chipp.ai , https://www.youtube.com/watch?v=Zql1iffA6Ag
 
 Features
 
